@@ -1,0 +1,1757 @@
+Task B3: Get All Temperature Readings between 17.0 and 19.0
+Temperature, Year, Month_Avg, Country, Country_Code
+17.0(C) 62.6(F),2012,Jul,Austria,AUT
+17.0(C) 62.6(F),2000,Jun,Luxembourg,LUX
+17.0(C) 62.6(F),2005,Sep,Hungary,HUN
+17.0(C) 62.6(F),2001,May,Korea. Republic of,KOR
+17.0(C) 62.6(F),2005,Sep,Croatia,HRV
+17.0(C) 62.6(F),2014,Apr,Malta,MLT
+17.0(C) 62.61(F),2008,Jul,Zimbabwe,ZWE
+17.01(C) 62.61(F),2005,Oct,Portugal,PRT
+17.01(C) 62.62(F),2008,Jun,Korea. Democratic People's Republic of,PRK
+17.01(C) 62.62(F),2001,Jun,Mongolia,MNG
+17.01(C) 62.62(F),2009,Aug,Lithuania,LTU
+17.01(C) 62.62(F),2002,Apr,Malta,MLT
+17.01(C) 62.63(F),2006,Jun,Germany,DEU
+17.02(C) 62.63(F),2005,Sep,France,FRA
+17.02(C) 62.63(F),2013,Nov,Iraq,IRQ
+17.02(C) 62.63(F),2004,Nov,Malta,MLT
+17.02(C) 62.63(F),2001,Sep,Armenia,ARM
+17.02(C) 62.64(F),2008,Sep,Italy,ITA
+17.02(C) 62.64(F),2012,Sep,Republic of Montenegro,MNE
+17.02(C) 62.64(F),2001,Aug,Mongolia,MNG
+17.03(C) 62.65(F),2011,Jun,Estonia,EST
+17.03(C) 62.65(F),2000,Mar,Argentina,ARG
+17.03(C) 62.66(F),2006,Sep,Moldova,MDA
+17.03(C) 62.66(F),2002,May,Nepal,NPL
+17.03(C) 62.66(F),2016,Jun,France,FRA
+17.03(C) 62.66(F),2005,Sep,Andorra,AND
+17.04(C) 62.67(F),2007,May,Turkey,TUR
+17.04(C) 62.67(F),2005,Jul,Kyrgyzstan,KGZ
+17.04(C) 62.67(F),2000,Jun,Germany,DEU
+17.04(C) 62.68(F),2000,Jun,Zimbabwe,ZWE
+17.04(C) 62.68(F),2013,Aug,Botswana,BWA
+17.05(C) 62.68(F),2008,Dec,Saudi Arabia,SAU
+17.05(C) 62.69(F),2016,Nov,Cyprus,CYP
+17.05(C) 62.69(F),2000,Nov,Israel,ISR
+17.05(C) 62.69(F),2005,Jul,Zimbabwe,ZWE
+17.05(C) 62.69(F),2012,Aug,Kyrgyzstan,KGZ
+17.05(C) 62.7(F),2008,Jul,Estonia,EST
+17.06(C) 62.7(F),2010,Sep,Italy,ITA
+17.06(C) 62.71(F),2015,May,Moldova,MDA
+17.06(C) 62.71(F),2014,Jul,Sweden,SWE
+17.06(C) 62.72(F),2002,Jan,Bahrain,BHR
+17.07(C) 62.72(F),2011,Nov,Tunisia,TUN
+17.07(C) 62.72(F),2004,Sep,Bhutan,BTN
+17.07(C) 62.72(F),2013,Dec,Lesotho,LSO
+17.07(C) 62.72(F),2006,Jun,Monaco,MCO
+17.07(C) 62.73(F),2006,Jul,United Kingdom,GBR
+17.07(C) 62.73(F),2005,Dec,Lesotho,LSO
+17.07(C) 62.73(F),2014,Sep,Hungary,HUN
+17.07(C) 62.73(F),2002,Apr,Iran,IRN
+17.07(C) 62.73(F),2016,Feb,Kuwait,KWT
+17.07(C) 62.73(F),2013,Jun,Slovakia,SVK
+17.07(C) 62.73(F),2007,Apr,Malta,MLT
+17.08(C) 62.74(F),2014,May,Korea. Republic of,KOR
+17.08(C) 62.74(F),2013,May,Turkey,TUR
+17.08(C) 62.75(F),2001,Feb,Mexico,MEX
+17.08(C) 62.75(F),2016,Jun,Germany,DEU
+17.09(C) 62.76(F),2016,Jul,Denmark,DNK
+17.09(C) 62.76(F),2007,Jul,Luxembourg,LUX
+17.09(C) 62.77(F),2011,Aug,Latvia,LVA
+17.09(C) 62.77(F),2016,Feb,Egypt,EGY
+17.09(C) 62.77(F),2000,Aug,Namibia,NAM
+17.1(C) 62.77(F),2013,Jun,Republic of Montenegro,MNE
+17.1(C) 62.77(F),2005,Aug,Poland,POL
+17.1(C) 62.77(F),2010,Sep,Bhutan,BTN
+17.1(C) 62.78(F),2012,Jul,Netherlands,NLD
+17.1(C) 62.78(F),2014,Sep,Nepal,NPL
+17.1(C) 62.78(F),2004,Oct,Uruguay,URY
+17.1(C) 62.78(F),2016,Jan,Bangladesh,BGD
+17.1(C) 62.78(F),2009,Oct,Uruguay,URY
+17.1(C) 62.79(F),2001,Jul,Finland,FIN
+17.1(C) 62.79(F),2008,Jul,Kyrgyzstan,KGZ
+17.11(C) 62.79(F),2014,Jun,Zimbabwe,ZWE
+17.11(C) 62.79(F),2000,May,Croatia,HRV
+17.11(C) 62.79(F),2008,Apr,Lebanon,LBN
+17.11(C) 62.8(F),2014,Jan,Bangladesh,BGD
+17.11(C) 62.8(F),2000,Dec,Lesotho,LSO
+17.11(C) 62.8(F),2016,Jun,Armenia,ARM
+17.11(C) 62.8(F),2006,May,Nepal,NPL
+17.12(C) 62.81(F),2013,Jan,India,IND
+17.12(C) 62.81(F),2000,Jun,Monaco,MCO
+17.12(C) 62.81(F),2003,Nov,Tunisia,TUN
+17.12(C) 62.81(F),2005,Jun,Swaziland,SWZ
+17.12(C) 62.81(F),2006,Jun,Poland,POL
+17.12(C) 62.81(F),2015,May,Korea. Republic of,KOR
+17.12(C) 62.82(F),2010,Dec,Lesotho,LSO
+17.12(C) 62.82(F),2006,Jun,Belarus,BLR
+17.12(C) 62.82(F),2010,Jun,Luxembourg,LUX
+17.12(C) 62.82(F),2001,Dec,Kuwait,KWT
+17.12(C) 62.82(F),2001,Nov,Argentina,ARG
+17.12(C) 62.82(F),2003,Sep,Bhutan,BTN
+17.13(C) 62.83(F),2007,Aug,Netherlands,NLD
+17.13(C) 62.83(F),2010,Jun,Belgium,BEL
+17.13(C) 62.83(F),2002,Jun,Poland,POL
+17.13(C) 62.83(F),2014,Sep,Republic of Serbia,SRB
+17.13(C) 62.83(F),2000,Dec,Saudi Arabia,SAU
+17.13(C) 62.84(F),2012,Aug,Denmark,DNK
+17.13(C) 62.84(F),2010,May,Moldova,MDA
+17.13(C) 62.84(F),2010,Jul,Bolivia,BOL
+17.14(C) 62.84(F),2013,Feb,Kuwait,KWT
+17.14(C) 62.84(F),2011,Apr,Malta,MLT
+17.14(C) 62.85(F),2012,Mar,Lesotho,LSO
+17.14(C) 62.85(F),2014,Nov,Mexico,MEX
+17.14(C) 62.85(F),2009,Jul,Zambia,ZMB
+17.14(C) 62.85(F),2009,Apr,Cyprus,CYP
+17.14(C) 62.85(F),2000,Jul,Monaco,MCO
+17.14(C) 62.85(F),2007,Nov,Argentina,ARG
+17.14(C) 62.86(F),2001,Jun,Bolivia,BOL
+17.15(C) 62.87(F),2012,Jun,Czech Republic,CZE
+17.15(C) 62.87(F),2006,Jun,Czech Republic,CZE
+17.15(C) 62.87(F),2009,Jul,Estonia,EST
+17.15(C) 62.87(F),2002,Aug,Namibia,NAM
+17.15(C) 62.88(F),2016,Feb,New Zealand,NZL
+17.16(C) 62.88(F),2012,Jun,Georgia,GEO
+17.16(C) 62.88(F),2011,Sep,Bhutan,BTN
+17.16(C) 62.88(F),2016,Nov,Tunisia,TUN
+17.16(C) 62.88(F),2007,Nov,Malta,MLT
+17.16(C) 62.88(F),2001,Apr,Morocco,MAR
+17.16(C) 62.89(F),2013,Jul,Switzerland,CHE
+17.16(C) 62.89(F),2001,Jun,Bhutan,BTN
+17.16(C) 62.9(F),2004,Nov,Algeria,DZA
+17.16(C) 62.9(F),2005,Apr,Morocco,MAR
+17.17(C) 62.9(F),2008,Jun,Germany,DEU
+17.17(C) 62.9(F),2009,May,Republic of Serbia,SRB
+17.17(C) 62.91(F),2004,Jun,Bhutan,BTN
+17.17(C) 62.91(F),2011,Jun,Zimbabwe,ZWE
+17.17(C) 62.91(F),2013,Sep,Nepal,NPL
+17.17(C) 62.91(F),2004,Sep,Bulgaria,BGR
+17.18(C) 62.92(F),2004,Jun,Mongolia,MNG
+17.18(C) 62.92(F),2001,Oct,Portugal,PRT
+17.18(C) 62.92(F),2000,Feb,Saudi Arabia,SAU
+17.18(C) 62.93(F),2011,Jun,Andorra,AND
+17.18(C) 62.93(F),2011,Aug,Netherlands,NLD
+17.19(C) 62.93(F),2007,May,Bulgaria,BGR
+17.19(C) 62.94(F),2009,Sep,Macedonia,MKD
+17.19(C) 62.94(F),2010,Feb,Algeria,DZA
+17.19(C) 62.94(F),2014,Jan,India,IND
+17.19(C) 62.94(F),2000,Jul,Belarus,BLR
+17.19(C) 62.95(F),2008,Jun,Bhutan,BTN
+17.19(C) 62.95(F),2010,Aug,Namibia,NAM
+17.19(C) 62.95(F),2000,May,Albania,ALB
+17.2(C) 62.96(F),2003,Jul,Austria,AUT
+17.2(C) 62.96(F),2005,Sep,Republic of Serbia,SRB
+17.2(C) 62.96(F),2011,Mar,Pakistan,PAK
+17.2(C) 62.97(F),2006,Sep,Bosnia and Herzegovina,BIH
+17.2(C) 62.97(F),2000,Jul,Slovenia,SVN
+17.21(C) 62.97(F),2016,Sep,Macedonia,MKD
+17.21(C) 62.98(F),2004,Sep,France,FRA
+17.21(C) 62.98(F),2006,Jan,Bahrain,BHR
+17.21(C) 62.98(F),2011,Jun,France,FRA
+17.21(C) 62.98(F),2003,Sep,Albania,ALB
+17.21(C) 62.99(F),2013,Sep,Namibia,NAM
+17.22(C) 62.99(F),2000,Jan,Bahrain,BHR
+17.22(C) 62.99(F),2005,Jul,Finland,FIN
+17.22(C) 63.0(F),2014,Jun,Republic of Montenegro,MNE
+17.22(C) 63.0(F),2004,Jun,Bosnia and Herzegovina,BIH
+17.22(C) 63.0(F),2009,Sep,Romania,ROU
+17.23(C) 63.01(F),2010,Aug,Germany,DEU
+17.23(C) 63.01(F),2011,Nov,Egypt,EGY
+17.23(C) 63.02(F),2007,May,Republic of Serbia,SRB
+17.23(C) 63.02(F),2011,Dec,Bahrain,BHR
+17.24(C) 63.02(F),2009,May,Croatia,HRV
+17.24(C) 63.03(F),2000,Oct,Morocco,MAR
+17.24(C) 63.03(F),2004,Jul,Luxembourg,LUX
+17.24(C) 63.03(F),2002,Jul,Zimbabwe,ZWE
+17.24(C) 63.03(F),2000,Jun,Bolivia,BOL
+17.24(C) 63.03(F),2000,Aug,Bhutan,BTN
+17.24(C) 63.04(F),2016,Sep,Romania,ROU
+17.24(C) 63.04(F),2000,May,Moldova,MDA
+17.24(C) 63.04(F),2004,Jan,India,IND
+17.25(C) 63.04(F),2012,Dec,Lesotho,LSO
+17.25(C) 63.05(F),2002,Jun,Belgium,BEL
+17.25(C) 63.05(F),2006,Jun,Belgium,BEL
+17.25(C) 63.05(F),2010,Aug,Belgium,BEL
+17.25(C) 63.05(F),2004,Nov,Argentina,ARG
+17.25(C) 63.05(F),2006,Jun,Luxembourg,LUX
+17.25(C) 63.05(F),2002,Jul,Finland,FIN
+17.25(C) 63.06(F),2003,Feb,Mexico,MEX
+17.26(C) 63.06(F),2015,Sep,South Africa,ZAF
+17.26(C) 63.07(F),2016,Oct,Uruguay,URY
+17.26(C) 63.07(F),2016,Mar,Iraq,IRQ
+17.26(C) 63.07(F),2013,Aug,Austria,AUT
+17.26(C) 63.07(F),2007,Jul,Belgium,BEL
+17.26(C) 63.08(F),2008,Jan,United Arab Emirates,ARE
+17.27(C) 63.08(F),2015,Nov,Argentina,ARG
+17.27(C) 63.08(F),2014,Sep,South Africa,ZAF
+17.27(C) 63.08(F),2001,Feb,Saudi Arabia,SAU
+17.27(C) 63.08(F),2012,Jun,Monaco,MCO
+17.27(C) 63.09(F),2015,Sep,Croatia,HRV
+17.27(C) 63.09(F),2001,Aug,Latvia,LVA
+17.27(C) 63.09(F),2015,Jun,Slovakia,SVK
+17.27(C) 63.09(F),2014,Aug,Slovakia,SVK
+17.28(C) 63.1(F),2003,Jun,United States,USA
+17.28(C) 63.1(F),2011,Sep,Monaco,MCO
+17.28(C) 63.1(F),2001,Aug,Denmark,DNK
+17.28(C) 63.1(F),2008,Jun,France,FRA
+17.28(C) 63.1(F),2005,Sep,Bhutan,BTN
+17.28(C) 63.1(F),2013,Sep,Bulgaria,BGR
+17.28(C) 63.11(F),2000,Apr,South Africa,ZAF
+17.28(C) 63.11(F),2012,May,Australia,AUS
+17.28(C) 63.11(F),2006,Aug,Monaco,MCO
+17.28(C) 63.11(F),2002,Dec,Lesotho,LSO
+17.28(C) 63.11(F),2000,Aug,Austria,AUT
+17.29(C) 63.12(F),2013,Aug,Estonia,EST
+17.29(C) 63.12(F),2016,Mar,Pakistan,PAK
+17.29(C) 63.13(F),2015,May,Kazakhstan,KAZ
+17.29(C) 63.13(F),2006,Sep,Nepal,NPL
+17.3(C) 63.13(F),2007,Aug,Belgium,BEL
+17.3(C) 63.13(F),2003,Jul,Zambia,ZMB
+17.3(C) 63.13(F),2013,Jun,Poland,POL
+17.3(C) 63.14(F),2007,Jun,Zimbabwe,ZWE
+17.3(C) 63.15(F),2009,Sep,Bhutan,BTN
+17.3(C) 63.15(F),2007,Apr,Jordan,JOR
+17.31(C) 63.16(F),2001,Nov,Israel,ISR
+17.31(C) 63.16(F),2012,Sep,Nepal,NPL
+17.31(C) 63.16(F),2003,Aug,Botswana,BWA
+17.31(C) 63.16(F),2009,Jun,Bosnia and Herzegovina,BIH
+17.32(C) 63.17(F),2011,Jun,Czech Republic,CZE
+17.32(C) 63.17(F),2010,May,Nepal,NPL
+17.32(C) 63.17(F),2008,May,Greece,GRC
+17.32(C) 63.17(F),2013,Apr,Iran,IRN
+17.32(C) 63.17(F),2012,Jul,Luxembourg,LUX
+17.32(C) 63.18(F),2016,Oct,Portugal,PRT
+17.33(C) 63.19(F),2003,Sep,Nepal,NPL
+17.33(C) 63.19(F),2002,Jun,Monaco,MCO
+17.33(C) 63.19(F),2000,Jun,Armenia,ARM
+17.33(C) 63.19(F),2016,Sep,Bosnia and Herzegovina,BIH
+17.33(C) 63.19(F),2003,Aug,Lithuania,LTU
+17.33(C) 63.19(F),2006,Aug,Denmark,DNK
+17.34(C) 63.2(F),2001,May,Hungary,HUN
+17.34(C) 63.21(F),2002,Jun,Belarus,BLR
+17.34(C) 63.21(F),2013,Aug,Australia,AUS
+17.34(C) 63.21(F),2000,Apr,Malta,MLT
+17.34(C) 63.22(F),2011,Sep,Nepal,NPL
+17.35(C) 63.22(F),2014,Jul,Mongolia,MNG
+17.35(C) 63.22(F),2011,Jul,Monaco,MCO
+17.35(C) 63.23(F),2000,Oct,Uruguay,URY
+17.35(C) 63.23(F),2004,Sep,Albania,ALB
+17.35(C) 63.23(F),2007,Jun,Luxembourg,LUX
+17.35(C) 63.23(F),2007,Jun,Armenia,ARM
+17.35(C) 63.23(F),2006,Aug,Poland,POL
+17.35(C) 63.24(F),2002,Jul,Bolivia,BOL
+17.35(C) 63.24(F),2001,Jul,Zambia,ZMB
+17.35(C) 63.24(F),2003,May,Bosnia and Herzegovina,BIH
+17.36(C) 63.24(F),2012,Mar,Egypt,EGY
+17.36(C) 63.24(F),2016,Jan,Bahrain,BHR
+17.36(C) 63.25(F),2016,May,Korea. Republic of,KOR
+17.36(C) 63.25(F),2012,May,Nepal,NPL
+17.37(C) 63.26(F),2016,May,Azerbaijan,AZE
+17.37(C) 63.26(F),2007,Dec,Saudi Arabia,SAU
+17.37(C) 63.27(F),2015,Mar,Lesotho,LSO
+17.37(C) 63.27(F),2015,May,Nepal,NPL
+17.37(C) 63.27(F),2002,Jan,India,IND
+17.38(C) 63.28(F),2002,Dec,Saudi Arabia,SAU
+17.38(C) 63.28(F),2005,Jan,India,IND
+17.38(C) 63.28(F),2007,Aug,Germany,DEU
+17.38(C) 63.28(F),2016,Jun,Lithuania,LTU
+17.38(C) 63.29(F),2010,Jan,India,IND
+17.38(C) 63.29(F),2005,Jun,Romania,ROU
+17.39(C) 63.29(F),2012,Jul,Bolivia,BOL
+17.39(C) 63.3(F),2005,Jun,Slovenia,SVN
+17.39(C) 63.3(F),2014,Jun,Monaco,MCO
+17.39(C) 63.3(F),2003,Aug,Bolivia,BOL
+17.39(C) 63.3(F),2002,Jun,Germany,DEU
+17.39(C) 63.3(F),2013,Feb,Mexico,MEX
+17.39(C) 63.3(F),2011,Nov,Pakistan,PAK
+17.39(C) 63.31(F),2005,May,Greece,GRC
+17.39(C) 63.31(F),2006,Aug,Mongolia,MNG
+17.4(C) 63.31(F),2016,Aug,Lithuania,LTU
+17.4(C) 63.31(F),2004,Jul,Georgia,GEO
+17.4(C) 63.32(F),2010,Mar,Lesotho,LSO
+17.4(C) 63.32(F),2013,Dec,Laos,LAO
+17.41(C) 63.33(F),2015,Apr,Morocco,MAR
+17.41(C) 63.33(F),2010,Sep,Albania,ALB
+17.41(C) 63.34(F),2006,Jun,Slovenia,SVN
+17.41(C) 63.34(F),2009,Aug,Swaziland,SWZ
+17.41(C) 63.34(F),2002,Mar,Pakistan,PAK
+17.41(C) 63.34(F),2014,Nov,Israel,ISR
+17.41(C) 63.34(F),2007,Jun,Belgium,BEL
+17.41(C) 63.35(F),2014,Apr,Morocco,MAR
+17.42(C) 63.35(F),2004,Jul,Belgium,BEL
+17.42(C) 63.35(F),2007,Jun,Lithuania,LTU
+17.42(C) 63.35(F),2012,Jun,France,FRA
+17.42(C) 63.35(F),2010,Jun,Andorra,AND
+17.42(C) 63.35(F),2016,Jul,Austria,AUT
+17.42(C) 63.35(F),2000,Jun,Slovakia,SVK
+17.42(C) 63.35(F),2002,Jun,Korea. Democratic People's Republic of,PRK
+17.42(C) 63.36(F),2004,Dec,Bahrain,BHR
+17.42(C) 63.36(F),2011,Jun,Slovakia,SVK
+17.43(C) 63.37(F),2001,May,Australia,AUS
+17.43(C) 63.37(F),2011,Jun,Armenia,ARM
+17.43(C) 63.37(F),2000,Jun,United States,USA
+17.43(C) 63.37(F),2008,Aug,Luxembourg,LUX
+17.43(C) 63.37(F),2004,Aug,Namibia,NAM
+17.43(C) 63.38(F),2008,May,Bolivia,BOL
+17.43(C) 63.38(F),2008,Jan,India,IND
+17.43(C) 63.38(F),2010,Apr,Malta,MLT
+17.43(C) 63.38(F),2014,Aug,Slovenia,SVN
+17.43(C) 63.38(F),2002,Jul,Netherlands,NLD
+17.43(C) 63.38(F),2002,Jun,Luxembourg,LUX
+17.44(C) 63.39(F),2002,Sep,Armenia,ARM
+17.44(C) 63.39(F),2002,Jun,Bhutan,BTN
+17.44(C) 63.39(F),2004,Aug,Estonia,EST
+17.44(C) 63.39(F),2004,May,Nepal,NPL
+17.44(C) 63.4(F),2007,Apr,Turkmenistan,TKM
+17.44(C) 63.4(F),2009,May,Portugal,PRT
+17.44(C) 63.4(F),2006,Sep,Germany,DEU
+17.45(C) 63.4(F),2009,Jun,United States,USA
+17.45(C) 63.4(F),2006,May,Greece,GRC
+17.45(C) 63.41(F),2003,Jan,India,IND
+17.45(C) 63.42(F),2003,Jan,Qatar,QAT
+17.46(C) 63.42(F),2002,May,Namibia,NAM
+17.46(C) 63.42(F),2014,Jan,Myanmar (Burma),MMR
+17.46(C) 63.42(F),2001,Jan,India,IND
+17.46(C) 63.42(F),2015,Jun,Belarus,BLR
+17.46(C) 63.43(F),2000,May,Republic of Serbia,SRB
+17.46(C) 63.43(F),2016,Sep,Monaco,MCO
+17.46(C) 63.43(F),2016,Sep,Germany,DEU
+17.46(C) 63.43(F),2002,Jul,Denmark,DNK
+17.46(C) 63.43(F),2007,Aug,Swaziland,SWZ
+17.46(C) 63.43(F),2012,Jul,Belgium,BEL
+17.46(C) 63.43(F),2008,Jul,Latvia,LVA
+17.47(C) 63.44(F),2016,Nov,Lesotho,LSO
+17.47(C) 63.45(F),2011,Aug,Namibia,NAM
+17.47(C) 63.45(F),2002,Feb,Lesotho,LSO
+17.47(C) 63.45(F),2001,Aug,Austria,AUT
+17.47(C) 63.45(F),2004,Jul,Poland,POL
+17.47(C) 63.45(F),2000,Aug,Swaziland,SWZ
+17.48(C) 63.46(F),2015,Sep,Nepal,NPL
+17.48(C) 63.46(F),2008,Jan,Niger,NER
+17.48(C) 63.46(F),2007,May,Hungary,HUN
+17.48(C) 63.46(F),2011,Jun,Korea. Democratic People's Republic of,PRK
+17.48(C) 63.47(F),2014,Jun,Slovenia,SVN
+17.48(C) 63.47(F),2013,Aug,Denmark,DNK
+17.48(C) 63.47(F),2011,Jun,Latvia,LVA
+17.48(C) 63.47(F),2007,May,Bolivia,BOL
+17.48(C) 63.47(F),2002,Aug,Bhutan,BTN
+17.48(C) 63.47(F),2012,Nov,Jordan,JOR
+17.49(C) 63.48(F),2011,Aug,Botswana,BWA
+17.49(C) 63.48(F),2015,Jul,Lithuania,LTU
+17.49(C) 63.49(F),2005,Sep,Nepal,NPL
+17.49(C) 63.49(F),2009,Nov,Israel,ISR
+17.49(C) 63.49(F),2016,Jan,Myanmar (Burma),MMR
+17.49(C) 63.49(F),2003,Dec,Saudi Arabia,SAU
+17.5(C) 63.49(F),2009,Apr,Tunisia,TUN
+17.5(C) 63.5(F),2009,Dec,Lesotho,LSO
+17.5(C) 63.5(F),2005,May,Kazakhstan,KAZ
+17.5(C) 63.5(F),2009,Nov,Malta,MLT
+17.5(C) 63.5(F),2015,Jun,China,CHN
+17.5(C) 63.5(F),2008,Feb,Bahrain,BHR
+17.5(C) 63.5(F),2000,May,Hungary,HUN
+17.5(C) 63.51(F),2008,Aug,Netherlands,NLD
+17.5(C) 63.51(F),2010,Sep,Nepal,NPL
+17.51(C) 63.51(F),2010,Nov,Iraq,IRQ
+17.51(C) 63.51(F),2008,Aug,Mongolia,MNG
+17.51(C) 63.51(F),2008,Nov,Cyprus,CYP
+17.51(C) 63.51(F),2009,Feb,Kuwait,KWT
+17.51(C) 63.51(F),2012,Sep,Andorra,AND
+17.51(C) 63.52(F),2008,Mar,Jordan,JOR
+17.51(C) 63.52(F),2011,Jul,Zambia,ZMB
+17.51(C) 63.52(F),2005,Aug,Mongolia,MNG
+17.51(C) 63.52(F),2004,Jul,Bolivia,BOL
+17.51(C) 63.53(F),2011,Aug,Austria,AUT
+17.51(C) 63.53(F),2008,Jun,Poland,POL
+17.52(C) 63.53(F),2007,Jul,Germany,DEU
+17.52(C) 63.53(F),2013,Aug,Latvia,LVA
+17.52(C) 63.53(F),2000,Aug,Belarus,BLR
+17.52(C) 63.53(F),2000,Jun,Bhutan,BTN
+17.52(C) 63.54(F),2004,Jan,Saudi Arabia,SAU
+17.52(C) 63.54(F),2016,Sep,Nepal,NPL
+17.52(C) 63.54(F),2010,Jun,France,FRA
+17.53(C) 63.55(F),2008,Aug,Bhutan,BTN
+17.53(C) 63.55(F),2000,Jul,France,FRA
+17.53(C) 63.55(F),2010,Aug,Swaziland,SWZ
+17.53(C) 63.55(F),2003,Oct,Turkmenistan,TKM
+17.53(C) 63.56(F),2000,Sep,Albania,ALB
+17.53(C) 63.56(F),2001,Jun,Croatia,HRV
+17.54(C) 63.57(F),2004,Jul,Czech Republic,CZE
+17.54(C) 63.57(F),2011,Jan,Saudi Arabia,SAU
+17.54(C) 63.57(F),2016,Sep,Luxembourg,LUX
+17.54(C) 63.57(F),2006,Aug,France,FRA
+17.54(C) 63.57(F),2000,Jun,Czech Republic,CZE
+17.54(C) 63.57(F),2011,Aug,Bhutan,BTN
+17.54(C) 63.57(F),2012,May,Greece,GRC
+17.54(C) 63.57(F),2013,Aug,Swaziland,SWZ
+17.54(C) 63.58(F),2009,Aug,Austria,AUT
+17.55(C) 63.58(F),2011,Aug,Lithuania,LTU
+17.55(C) 63.59(F),2002,Jun,Mongolia,MNG
+17.55(C) 63.59(F),2014,Aug,Estonia,EST
+17.55(C) 63.59(F),2013,Jul,Zambia,ZMB
+17.55(C) 63.59(F),2000,Aug,Botswana,BWA
+17.55(C) 63.6(F),2009,Jul,Bolivia,BOL
+17.55(C) 63.6(F),2004,Jul,Zambia,ZMB
+17.56(C) 63.6(F),2012,Jan,Qatar,QAT
+17.56(C) 63.6(F),2008,Aug,Namibia,NAM
+17.56(C) 63.6(F),2003,Jun,China,CHN
+17.56(C) 63.61(F),2012,Jun,Bolivia,BOL
+17.56(C) 63.61(F),2007,Jun,Germany,DEU
+17.56(C) 63.61(F),2013,Mar,Lesotho,LSO
+17.56(C) 63.61(F),2002,Apr,Uruguay,URY
+17.56(C) 63.61(F),2001,May,Greece,GRC
+17.56(C) 63.61(F),2014,Jun,United States,USA
+17.56(C) 63.61(F),2014,Dec,India,IND
+17.56(C) 63.61(F),2003,Aug,Belarus,BLR
+17.56(C) 63.61(F),2014,Aug,Bhutan,BTN
+17.56(C) 63.61(F),2000,Mar,Libya,LBY
+17.57(C) 63.62(F),2010,Jul,Paraguay,PRY
+17.57(C) 63.62(F),2008,Oct,Uruguay,URY
+17.57(C) 63.62(F),2003,Aug,Peru,PER
+17.57(C) 63.62(F),2011,Jul,Slovakia,SVK
+17.57(C) 63.62(F),2013,Aug,Bolivia,BOL
+17.57(C) 63.63(F),2007,Jun,France,FRA
+17.57(C) 63.63(F),2006,Feb,Mexico,MEX
+17.57(C) 63.63(F),2013,May,Nepal,NPL
+17.58(C) 63.64(F),2010,Jun,Slovenia,SVN
+17.58(C) 63.64(F),2013,Jun,Estonia,EST
+17.58(C) 63.64(F),2008,Jun,Andorra,AND
+17.58(C) 63.64(F),2001,Sep,Nepal,NPL
+17.58(C) 63.64(F),2014,Sep,Albania,ALB
+17.58(C) 63.65(F),2013,Nov,Malta,MLT
+17.58(C) 63.65(F),2011,Apr,Turkmenistan,TKM
+17.58(C) 63.65(F),2001,Jun,Macedonia,MKD
+17.58(C) 63.65(F),2006,Sep,Bulgaria,BGR
+17.59(C) 63.65(F),2010,Sep,South Africa,ZAF
+17.59(C) 63.66(F),2006,Apr,Malta,MLT
+17.59(C) 63.66(F),2010,Nov,Mexico,MEX
+17.59(C) 63.66(F),2013,Apr,Syria,SYR
+17.59(C) 63.66(F),2015,Jul,Zimbabwe,ZWE
+17.59(C) 63.67(F),2004,May,Kazakhstan,KAZ
+17.59(C) 63.67(F),2007,May,Azerbaijan,AZE
+17.6(C) 63.67(F),2006,Mar,Argentina,ARG
+17.6(C) 63.67(F),2008,Jun,Japan,JPN
+17.6(C) 63.67(F),2001,Feb,Lesotho,LSO
+17.6(C) 63.68(F),2011,Jun,Bhutan,BTN
+17.6(C) 63.68(F),2012,Feb,Saudi Arabia,SAU
+17.6(C) 63.68(F),2015,Nov,Cyprus,CYP
+17.6(C) 63.68(F),2004,Jun,Zambia,ZMB
+17.6(C) 63.68(F),2009,Feb,Lesotho,LSO
+17.6(C) 63.69(F),2013,Nov,Algeria,DZA
+17.6(C) 63.69(F),2012,Nov,Iraq,IRQ
+17.61(C) 63.69(F),2003,Sep,Andorra,AND
+17.61(C) 63.69(F),2015,Jan,Bahrain,BHR
+17.61(C) 63.7(F),2013,Mar,Israel,ISR
+17.61(C) 63.7(F),2004,Jun,Bolivia,BOL
+17.61(C) 63.7(F),2010,Nov,Argentina,ARG
+17.61(C) 63.7(F),2002,May,Greece,GRC
+17.61(C) 63.7(F),2014,Aug,Monaco,MCO
+17.61(C) 63.7(F),2012,Mar,Libya,LBY
+17.61(C) 63.71(F),2003,Jul,Mongolia,MNG
+17.61(C) 63.71(F),2002,Jul,Luxembourg,LUX
+17.62(C) 63.71(F),2003,Jul,Bolivia,BOL
+17.62(C) 63.71(F),2006,Apr,Morocco,MAR
+17.62(C) 63.71(F),2000,Jul,Bhutan,BTN
+17.62(C) 63.71(F),2009,Jun,France,FRA
+17.62(C) 63.72(F),2012,Jun,Korea. Democratic People's Republic of,PRK
+17.62(C) 63.72(F),2006,Apr,Syria,SYR
+17.62(C) 63.72(F),2013,Nov,Jordan,JOR
+17.62(C) 63.72(F),2009,Jul,Latvia,LVA
+17.62(C) 63.72(F),2007,Jun,Bhutan,BTN
+17.62(C) 63.72(F),2007,May,Paraguay,PRY
+17.63(C) 63.73(F),2013,May,Azerbaijan,AZE
+17.63(C) 63.73(F),2011,Nov,Libya,LBY
+17.63(C) 63.73(F),2002,Jun,Slovakia,SVK
+17.63(C) 63.74(F),2013,Nov,Mexico,MEX
+17.63(C) 63.74(F),2001,Jun,Hungary,HUN
+17.63(C) 63.74(F),2010,Sep,Armenia,ARM
+17.63(C) 63.74(F),2013,Aug,Bhutan,BTN
+17.64(C) 63.74(F),2005,Dec,India,IND
+17.64(C) 63.74(F),2008,May,Kazakhstan,KAZ
+17.64(C) 63.75(F),2006,Sep,Luxembourg,LUX
+17.64(C) 63.75(F),2012,Oct,Greece,GRC
+17.64(C) 63.75(F),2013,Oct,Portugal,PRT
+17.64(C) 63.75(F),2003,Jul,Bhutan,BTN
+17.64(C) 63.75(F),2002,Nov,Mexico,MEX
+17.64(C) 63.75(F),2005,May,Portugal,PRT
+17.64(C) 63.75(F),2005,Apr,Cyprus,CYP
+17.64(C) 63.76(F),2012,Sep,Bosnia and Herzegovina,BIH
+17.64(C) 63.76(F),2014,Nov,Argentina,ARG
+17.64(C) 63.76(F),2016,Mar,Lesotho,LSO
+17.65(C) 63.76(F),2015,Aug,Bhutan,BTN
+17.65(C) 63.77(F),2015,Jun,Republic of Montenegro,MNE
+17.65(C) 63.78(F),2008,Oct,Morocco,MAR
+17.66(C) 63.78(F),2014,Jul,Monaco,MCO
+17.66(C) 63.78(F),2002,Nov,Argentina,ARG
+17.66(C) 63.78(F),2000,Jul,Zambia,ZMB
+17.66(C) 63.79(F),2001,Jun,United States,USA
+17.66(C) 63.79(F),2002,Jun,Czech Republic,CZE
+17.66(C) 63.79(F),2012,Jul,Zambia,ZMB
+17.66(C) 63.79(F),2007,May,Ukraine,UKR
+17.66(C) 63.8(F),2004,Jun,Ukraine,UKR
+17.67(C) 63.8(F),2015,May,Australia,AUS
+17.67(C) 63.8(F),2011,Jul,France,FRA
+17.67(C) 63.81(F),2013,Dec,Myanmar (Burma),MMR
+17.67(C) 63.81(F),2014,Aug,Latvia,LVA
+17.67(C) 63.81(F),2008,Jun,United States,USA
+17.68(C) 63.82(F),2014,Aug,Poland,POL
+17.68(C) 63.82(F),2007,Aug,Botswana,BWA
+17.68(C) 63.82(F),2005,Mar,Argentina,ARG
+17.68(C) 63.82(F),2005,Aug,Belarus,BLR
+17.68(C) 63.83(F),2011,Aug,Luxembourg,LUX
+17.68(C) 63.83(F),2003,Apr,Iran,IRN
+17.68(C) 63.83(F),2002,Aug,Monaco,MCO
+17.68(C) 63.83(F),2010,May,Greece,GRC
+17.68(C) 63.83(F),2005,Jun,Belgium,BEL
+17.68(C) 63.83(F),2006,Nov,Egypt,EGY
+17.69(C) 63.84(F),2015,Aug,Estonia,EST
+17.69(C) 63.85(F),2005,Jul,Denmark,DNK
+17.69(C) 63.85(F),2005,Jun,Luxembourg,LUX
+17.69(C) 63.85(F),2014,Dec,Lesotho,LSO
+17.7(C) 63.86(F),2007,Nov,Algeria,DZA
+17.7(C) 63.86(F),2005,Jun,Bosnia and Herzegovina,BIH
+17.7(C) 63.86(F),2006,Jun,Bosnia and Herzegovina,BIH
+17.7(C) 63.86(F),2005,Apr,Syria,SYR
+17.7(C) 63.86(F),2005,Feb,Saudi Arabia,SAU
+17.7(C) 63.86(F),2016,Apr,Lebanon,LBN
+17.7(C) 63.86(F),2011,Aug,Zimbabwe,ZWE
+17.7(C) 63.86(F),2010,Aug,Botswana,BWA
+17.7(C) 63.86(F),2014,Mar,Iraq,IRQ
+17.7(C) 63.86(F),2014,Feb,Saudi Arabia,SAU
+17.7(C) 63.86(F),2008,Apr,Malta,MLT
+17.71(C) 63.87(F),2009,Jan,Laos,LAO
+17.71(C) 63.87(F),2001,Jun,Peru,PER
+17.71(C) 63.88(F),2016,Sep,Netherlands,NLD
+17.71(C) 63.88(F),2000,Aug,Netherlands,NLD
+17.71(C) 63.88(F),2000,Aug,Zimbabwe,ZWE
+17.72(C) 63.89(F),2009,Mar,Pakistan,PAK
+17.72(C) 63.89(F),2001,Jun,Republic of Serbia,SRB
+17.72(C) 63.89(F),2005,Jul,Bolivia,BOL
+17.72(C) 63.89(F),2002,May,Republic of Serbia,SRB
+17.72(C) 63.89(F),2012,May,Portugal,PRT
+17.72(C) 63.89(F),2004,Jun,United States,USA
+17.72(C) 63.9(F),2012,Apr,South Africa,ZAF
+17.72(C) 63.9(F),2003,Jun,Korea. Democratic People's Republic of,PRK
+17.72(C) 63.9(F),2011,Aug,Belgium,BEL
+17.72(C) 63.9(F),2016,Jun,Slovenia,SVN
+17.73(C) 63.91(F),2002,May,Moldova,MDA
+17.73(C) 63.91(F),2003,Aug,Switzerland,CHE
+17.73(C) 63.91(F),2011,Sep,Slovenia,SVN
+17.73(C) 63.92(F),2011,Mar,Lesotho,LSO
+17.73(C) 63.92(F),2003,May,Portugal,PRT
+17.73(C) 63.92(F),2007,Jan,United Arab Emirates,ARE
+17.73(C) 63.92(F),2015,Jun,Bhutan,BTN
+17.74(C) 63.92(F),2009,Mar,Egypt,EGY
+17.74(C) 63.92(F),2008,Nov,Mexico,MEX
+17.74(C) 63.93(F),2007,Mar,Argentina,ARG
+17.74(C) 63.93(F),2009,Aug,Australia,AUS
+17.74(C) 63.94(F),2007,Sep,Nepal,NPL
+17.74(C) 63.94(F),2009,Aug,Denmark,DNK
+17.74(C) 63.94(F),2008,Aug,Lithuania,LTU
+17.75(C) 63.94(F),2000,Jan,India,IND
+17.75(C) 63.94(F),2012,Jul,Germany,DEU
+17.75(C) 63.95(F),2014,Jul,Bolivia,BOL
+17.75(C) 63.95(F),2007,Aug,Monaco,MCO
+17.75(C) 63.95(F),2012,Apr,Uruguay,URY
+17.75(C) 63.95(F),2009,May,Australia,AUS
+17.75(C) 63.95(F),2003,May,Albania,ALB
+17.75(C) 63.95(F),2003,Sep,Italy,ITA
+17.75(C) 63.95(F),2006,Sep,Republic of Serbia,SRB
+17.75(C) 63.96(F),2005,Jun,Ukraine,UKR
+17.75(C) 63.96(F),2002,Mar,Argentina,ARG
+17.75(C) 63.96(F),2013,Jan,Bangladesh,BGD
+17.76(C) 63.96(F),2015,Jun,Monaco,MCO
+17.76(C) 63.96(F),2006,Nov,Argentina,ARG
+17.76(C) 63.96(F),2013,Jun,Latvia,LVA
+17.76(C) 63.97(F),2007,Jul,Zambia,ZMB
+17.76(C) 63.97(F),2006,Apr,Cyprus,CYP
+17.76(C) 63.97(F),2004,Sep,Nepal,NPL
+17.76(C) 63.97(F),2002,Aug,Georgia,GEO
+17.76(C) 63.98(F),2002,Jan,Qatar,QAT
+17.77(C) 63.98(F),2001,Sep,Bulgaria,BGR
+17.77(C) 63.98(F),2016,Dec,Saudi Arabia,SAU
+17.77(C) 63.98(F),2016,Jun,Andorra,AND
+17.77(C) 63.98(F),2005,Sep,South Africa,ZAF
+17.77(C) 63.98(F),2014,Jun,Armenia,ARM
+17.77(C) 63.98(F),2006,Aug,Latvia,LVA
+17.77(C) 63.98(F),2012,Aug,Austria,AUT
+17.77(C) 63.98(F),2004,Mar,Iraq,IRQ
+17.77(C) 63.99(F),2005,Aug,Republic of Montenegro,MNE
+17.77(C) 63.99(F),2014,Sep,France,FRA
+17.77(C) 63.99(F),2004,Jun,China,CHN
+17.77(C) 63.99(F),2004,May,Australia,AUS
+17.77(C) 63.99(F),2006,Sep,Hungary,HUN
+17.78(C) 64.0(F),2014,Jun,China,CHN
+17.78(C) 64.0(F),2013,Sep,Andorra,AND
+17.78(C) 64.0(F),2016,Jun,Bhutan,BTN
+17.78(C) 64.0(F),2006,Oct,Portugal,PRT
+17.78(C) 64.0(F),2015,Feb,Lesotho,LSO
+17.78(C) 64.0(F),2010,Dec,India,IND
+17.78(C) 64.0(F),2010,Aug,Czech Republic,CZE
+17.78(C) 64.0(F),2009,Sep,Turkey,TUR
+17.78(C) 64.01(F),2013,Jul,Estonia,EST
+17.78(C) 64.01(F),2003,Jun,Poland,POL
+17.78(C) 64.01(F),2002,Jul,Bhutan,BTN
+17.79(C) 64.01(F),2005,Jul,Netherlands,NLD
+17.79(C) 64.02(F),2011,Mar,Argentina,ARG
+17.79(C) 64.02(F),2003,Jul,Malawi,MWI
+17.79(C) 64.03(F),2013,Jul,Peru,PER
+17.79(C) 64.03(F),2006,Apr,Turkmenistan,TKM
+17.79(C) 64.03(F),2001,Jun,Armenia,ARM
+17.79(C) 64.03(F),2002,Jul,Belgium,BEL
+17.79(C) 64.03(F),2000,Sep,Andorra,AND
+17.8(C) 64.03(F),2008,Apr,South Africa,ZAF
+17.8(C) 64.04(F),2008,Jun,Slovakia,SVK
+17.8(C) 64.04(F),2005,Jun,Macedonia,MKD
+17.8(C) 64.04(F),2001,Aug,Bhutan,BTN
+17.8(C) 64.04(F),2004,Jul,Slovakia,SVK
+17.8(C) 64.05(F),2004,Jan,Lesotho,LSO
+17.81(C) 64.05(F),2007,Jun,Mongolia,MNG
+17.81(C) 64.05(F),2016,Jun,Czech Republic,CZE
+17.81(C) 64.06(F),2009,Sep,Andorra,AND
+17.81(C) 64.06(F),2010,Sep,Bulgaria,BGR
+17.81(C) 64.06(F),2002,Jan,Niger,NER
+17.81(C) 64.06(F),2015,Apr,Jordan,JOR
+17.81(C) 64.06(F),2013,Oct,Lebanon,LBN
+17.81(C) 64.06(F),2011,Apr,South Africa,ZAF
+17.81(C) 64.06(F),2006,Nov,Malta,MLT
+17.81(C) 64.07(F),2001,Jun,Nepal,NPL
+17.82(C) 64.07(F),2010,Apr,Cyprus,CYP
+17.82(C) 64.07(F),2008,Jun,Czech Republic,CZE
+17.82(C) 64.07(F),2016,Apr,Iran,IRN
+17.82(C) 64.07(F),2000,Jul,Peru,PER
+17.82(C) 64.07(F),2009,Feb,Mexico,MEX
+17.82(C) 64.07(F),2008,Jun,Nepal,NPL
+17.82(C) 64.07(F),2000,Feb,Lesotho,LSO
+17.82(C) 64.08(F),2007,Sep,South Africa,ZAF
+17.82(C) 64.08(F),2008,Nov,Malta,MLT
+17.82(C) 64.08(F),2007,Jun,Andorra,AND
+17.82(C) 64.08(F),2001,Apr,South Africa,ZAF
+17.82(C) 64.08(F),2011,Jun,Slovenia,SVN
+17.82(C) 64.08(F),2012,Jun,Japan,JPN
+17.83(C) 64.09(F),2014,Aug,France,FRA
+17.83(C) 64.09(F),2015,Sep,Hungary,HUN
+17.83(C) 64.09(F),2009,Jul,Denmark,DNK
+17.83(C) 64.09(F),2006,Jun,Georgia,GEO
+17.83(C) 64.09(F),2016,Nov,Argentina,ARG
+17.83(C) 64.09(F),2013,Dec,Bahrain,BHR
+17.83(C) 64.09(F),2001,Mar,Tunisia,TUN
+17.83(C) 64.09(F),2014,Feb,Bahrain,BHR
+17.83(C) 64.09(F),2000,Jun,Mongolia,MNG
+17.83(C) 64.1(F),2005,Sep,Albania,ALB
+17.83(C) 64.1(F),2006,Jun,Bhutan,BTN
+17.83(C) 64.1(F),2015,Jan,Bangladesh,BGD
+17.84(C) 64.1(F),2007,Jul,Peru,PER
+17.84(C) 64.1(F),2013,Oct,Uruguay,URY
+17.84(C) 64.11(F),2006,Jun,China,CHN
+17.84(C) 64.11(F),2007,Jan,India,IND
+17.84(C) 64.11(F),2009,Jun,China,CHN
+17.84(C) 64.11(F),2008,Aug,Germany,DEU
+17.84(C) 64.11(F),2002,Jun,Japan,JPN
+17.84(C) 64.11(F),2015,Jul,Tajikistan,TJK
+17.84(C) 64.11(F),2016,Mar,Argentina,ARG
+17.84(C) 64.11(F),2009,Sep,Bosnia and Herzegovina,BIH
+17.84(C) 64.12(F),2007,Aug,Estonia,EST
+17.84(C) 64.12(F),2008,Feb,Mexico,MEX
+17.84(C) 64.12(F),2007,Apr,Iran,IRN
+17.84(C) 64.12(F),2005,Sep,Moldova,MDA
+17.85(C) 64.12(F),2013,Jul,Bolivia,BOL
+17.85(C) 64.12(F),2010,Apr,Uruguay,URY
+17.85(C) 64.12(F),2006,Dec,Lesotho,LSO
+17.85(C) 64.12(F),2014,Sep,Moldova,MDA
+17.85(C) 64.13(F),2011,Jan,Laos,LAO
+17.85(C) 64.13(F),2013,Apr,Rwanda,RWA
+17.85(C) 64.13(F),2004,May,Bolivia,BOL
+17.85(C) 64.14(F),2014,Jan,Laos,LAO
+17.85(C) 64.14(F),2014,Aug,Namibia,NAM
+17.86(C) 64.14(F),2011,Jun,Poland,POL
+17.86(C) 64.14(F),2005,Feb,Bahrain,BHR
+17.86(C) 64.14(F),2000,Jan,Bangladesh,BGD
+17.86(C) 64.14(F),2008,Feb,Qatar,QAT
+17.86(C) 64.14(F),2006,Sep,Netherlands,NLD
+17.86(C) 64.14(F),2004,Jun,Nepal,NPL
+17.86(C) 64.15(F),2011,Jun,United States,USA
+17.86(C) 64.15(F),2006,Jan,Qatar,QAT
+17.86(C) 64.15(F),2010,Jun,Georgia,GEO
+17.86(C) 64.15(F),2005,Jun,Bhutan,BTN
+17.86(C) 64.15(F),2005,Sep,Bulgaria,BGR
+17.86(C) 64.16(F),2004,May,Morocco,MAR
+17.87(C) 64.16(F),2016,Aug,Slovakia,SVK
+17.87(C) 64.16(F),2008,Jun,Zambia,ZMB
+17.87(C) 64.17(F),2001,Nov,Algeria,DZA
+17.87(C) 64.17(F),2015,May,Portugal,PRT
+17.87(C) 64.17(F),2008,Jul,Lithuania,LTU
+17.87(C) 64.17(F),2014,Jul,Zambia,ZMB
+17.87(C) 64.17(F),2007,Aug,Mongolia,MNG
+17.87(C) 64.17(F),2004,Nov,Mexico,MEX
+17.87(C) 64.17(F),2002,Jul,Peru,PER
+17.87(C) 64.17(F),2009,Jul,Malawi,MWI
+17.87(C) 64.17(F),2007,Sep,Armenia,ARM
+17.88(C) 64.18(F),2011,Jul,Finland,FIN
+17.88(C) 64.18(F),2007,Oct,Iran,IRN
+17.88(C) 64.18(F),2010,Jul,Peru,PER
+17.88(C) 64.18(F),2013,Apr,South Africa,ZAF
+17.88(C) 64.18(F),2011,Jul,Bhutan,BTN
+17.88(C) 64.18(F),2011,Jul,Poland,POL
+17.88(C) 64.19(F),2001,Aug,Swaziland,SWZ
+17.88(C) 64.19(F),2013,Jul,Georgia,GEO
+17.88(C) 64.19(F),2002,Apr,Jordan,JOR
+17.88(C) 64.19(F),2001,Apr,Syria,SYR
+17.88(C) 64.19(F),2015,Jun,Korea. Democratic People's Republic of,PRK
+17.89(C) 64.2(F),2015,Aug,Denmark,DNK
+17.89(C) 64.2(F),2006,Jan,India,IND
+17.89(C) 64.2(F),2005,Apr,South Africa,ZAF
+17.89(C) 64.2(F),2013,Jun,Bolivia,BOL
+17.89(C) 64.21(F),2016,Jul,Estonia,EST
+17.89(C) 64.21(F),2016,Sep,Belgium,BEL
+17.89(C) 64.21(F),2001,May,Swaziland,SWZ
+17.89(C) 64.21(F),2000,Apr,Cyprus,CYP
+17.9(C) 64.21(F),2014,Sep,Bulgaria,BGR
+17.9(C) 64.22(F),2012,May,Namibia,NAM
+17.9(C) 64.22(F),2004,Jun,Macedonia,MKD
+17.9(C) 64.23(F),2014,Sep,Namibia,NAM
+17.9(C) 64.23(F),2014,Aug,Lithuania,LTU
+17.91(C) 64.23(F),2007,Apr,Israel,ISR
+17.91(C) 64.23(F),2008,Jul,Bhutan,BTN
+17.91(C) 64.23(F),2003,Dec,Lesotho,LSO
+17.91(C) 64.24(F),2011,May,Portugal,PRT
+17.91(C) 64.24(F),2009,Nov,Argentina,ARG
+17.91(C) 64.24(F),2015,Sep,Italy,ITA
+17.91(C) 64.24(F),2004,Aug,Latvia,LVA
+17.91(C) 64.24(F),2011,Jan,Myanmar (Burma),MMR
+17.91(C) 64.24(F),2000,Feb,Bahrain,BHR
+17.91(C) 64.24(F),2016,Feb,Mexico,MEX
+17.91(C) 64.24(F),2008,Apr,Morocco,MAR
+17.91(C) 64.25(F),2003,May,Bulgaria,BGR
+17.91(C) 64.25(F),2016,Jul,Bhutan,BTN
+17.92(C) 64.25(F),2013,Jul,Latvia,LVA
+17.92(C) 64.25(F),2011,Dec,Qatar,QAT
+17.92(C) 64.25(F),2011,Jun,Nepal,NPL
+17.92(C) 64.26(F),2006,Aug,Lithuania,LTU
+17.92(C) 64.26(F),2013,Sep,Albania,ALB
+17.92(C) 64.26(F),2007,May,Greece,GRC
+17.92(C) 64.26(F),2008,Jun,China,CHN
+17.92(C) 64.26(F),2012,Jul,Estonia,EST
+17.92(C) 64.26(F),2009,Jan,United Arab Emirates,ARE
+17.93(C) 64.27(F),2012,Apr,Uzbekistan,UZB
+17.93(C) 64.27(F),2001,Aug,Lithuania,LTU
+17.93(C) 64.27(F),2005,Jun,Monaco,MCO
+17.93(C) 64.27(F),2011,Jun,Lithuania,LTU
+17.93(C) 64.27(F),2011,Jun,Republic of Montenegro,MNE
+17.93(C) 64.28(F),2005,Apr,Iran,IRN
+17.93(C) 64.28(F),2000,Jan,Qatar,QAT
+17.93(C) 64.28(F),2008,Dec,Bahrain,BHR
+17.94(C) 64.28(F),2011,Nov,Malta,MLT
+17.94(C) 64.28(F),2012,Aug,Belarus,BLR
+17.94(C) 64.29(F),2012,Jun,Bhutan,BTN
+17.94(C) 64.29(F),2000,Jun,France,FRA
+17.94(C) 64.29(F),2006,Aug,Republic of Montenegro,MNE
+17.94(C) 64.29(F),2011,Apr,Morocco,MAR
+17.94(C) 64.29(F),2005,Nov,Malta,MLT
+17.94(C) 64.29(F),2003,Jan,Bangladesh,BGD
+17.94(C) 64.29(F),2009,Nov,Libya,LBY
+17.94(C) 64.29(F),2016,Aug,Swaziland,SWZ
+17.94(C) 64.29(F),2008,Jul,Netherlands,NLD
+17.94(C) 64.3(F),2013,Jul,Mongolia,MNG
+17.95(C) 64.31(F),2001,Apr,Tunisia,TUN
+17.95(C) 64.31(F),2011,Sep,France,FRA
+17.95(C) 64.31(F),2010,Jan,Saudi Arabia,SAU
+17.95(C) 64.32(F),2002,Jul,Paraguay,PRY
+17.96(C) 64.32(F),2005,Nov,Algeria,DZA
+17.96(C) 64.32(F),2016,Jun,Slovakia,SVK
+17.96(C) 64.33(F),2016,Jan,India,IND
+17.96(C) 64.33(F),2011,Jan,Lesotho,LSO
+17.96(C) 64.33(F),2000,Jul,Malawi,MWI
+17.96(C) 64.33(F),2006,Jun,Macedonia,MKD
+17.96(C) 64.33(F),2016,Aug,Mongolia,MNG
+17.96(C) 64.33(F),2016,Jul,Zambia,ZMB
+17.96(C) 64.34(F),2016,Jun,China,CHN
+17.96(C) 64.34(F),2008,Aug,Belgium,BEL
+17.97(C) 64.34(F),2005,Jul,Paraguay,PRY
+17.97(C) 64.34(F),2013,Jun,Bosnia and Herzegovina,BIH
+17.97(C) 64.34(F),2015,Dec,Niger,NER
+17.97(C) 64.34(F),2008,May,Lebanon,LBN
+17.97(C) 64.35(F),2005,Oct,Lebanon,LBN
+17.97(C) 64.35(F),2010,Apr,Morocco,MAR
+17.98(C) 64.36(F),2002,Jul,Germany,DEU
+17.98(C) 64.36(F),2006,Jul,Zambia,ZMB
+17.98(C) 64.36(F),2012,Jun,Slovakia,SVK
+17.98(C) 64.36(F),2006,Feb,Lesotho,LSO
+17.98(C) 64.36(F),2016,Jun,Republic of Montenegro,MNE
+17.98(C) 64.37(F),2003,Jun,Netherlands,NLD
+17.98(C) 64.37(F),2010,Oct,Turkmenistan,TKM
+17.98(C) 64.37(F),2012,May,Kazakhstan,KAZ
+17.99(C) 64.38(F),2006,Jun,Romania,ROU
+17.99(C) 64.38(F),2008,Jul,Denmark,DNK
+17.99(C) 64.38(F),2015,Sep,Romania,ROU
+17.99(C) 64.38(F),2014,Aug,Swaziland,SWZ
+17.99(C) 64.39(F),2016,May,Paraguay,PRY
+17.99(C) 64.39(F),2013,Jan,Bahrain,BHR
+17.99(C) 64.39(F),2013,Aug,Lithuania,LTU
+18.0(C) 64.39(F),2007,Aug,Bolivia,BOL
+18.0(C) 64.4(F),2003,Jul,Georgia,GEO
+18.0(C) 64.4(F),2006,Oct,Turkmenistan,TKM
+18.0(C) 64.4(F),2013,Dec,India,IND
+18.0(C) 64.4(F),2012,Jun,China,CHN
+18.0(C) 64.41(F),2007,Jul,Georgia,GEO
+18.0(C) 64.41(F),2001,Mar,Mexico,MEX
+18.01(C) 64.41(F),2010,May,Paraguay,PRY
+18.01(C) 64.41(F),2004,Jun,Romania,ROU
+18.01(C) 64.41(F),2002,Oct,Turkmenistan,TKM
+18.01(C) 64.42(F),2004,Jun,France,FRA
+18.01(C) 64.42(F),2007,Jun,Peru,PER
+18.01(C) 64.42(F),2008,Jul,Luxembourg,LUX
+18.01(C) 64.42(F),2016,Jun,Korea. Democratic People's Republic of,PRK
+18.01(C) 64.42(F),2008,Jul,Nepal,NPL
+18.01(C) 64.42(F),2005,Jun,United States,USA
+18.02(C) 64.43(F),2016,Jan,Qatar,QAT
+18.02(C) 64.43(F),2013,May,Bulgaria,BGR
+18.02(C) 64.43(F),2001,Jul,Peru,PER
+18.02(C) 64.44(F),2013,Apr,Malta,MLT
+18.03(C) 64.45(F),2001,Jun,Moldova,MDA
+18.03(C) 64.45(F),2010,Jun,Mongolia,MNG
+18.03(C) 64.45(F),2001,Mar,Israel,ISR
+18.03(C) 64.46(F),2004,Sep,Italy,ITA
+18.03(C) 64.46(F),2007,Jun,Bolivia,BOL
+18.03(C) 64.46(F),2006,Jun,Japan,JPN
+18.03(C) 64.46(F),2009,Sep,Bulgaria,BGR
+18.04(C) 64.47(F),2015,Jun,Japan,JPN
+18.04(C) 64.47(F),2010,Jun,United States,USA
+18.04(C) 64.47(F),2012,Jul,Bhutan,BTN
+18.04(C) 64.48(F),2010,Aug,Zimbabwe,ZWE
+18.04(C) 64.48(F),2015,May,Greece,GRC
+18.05(C) 64.48(F),2006,Apr,South Africa,ZAF
+18.05(C) 64.48(F),2000,Sep,Italy,ITA
+18.05(C) 64.49(F),2013,Jul,Denmark,DNK
+18.05(C) 64.49(F),2001,Jul,Denmark,DNK
+18.05(C) 64.49(F),2011,Aug,Mongolia,MNG
+18.05(C) 64.49(F),2006,Aug,Estonia,EST
+18.05(C) 64.49(F),2011,Jan,Bangladesh,BGD
+18.05(C) 64.5(F),2016,Sep,Albania,ALB
+18.06(C) 64.5(F),2009,Jul,Netherlands,NLD
+18.06(C) 64.5(F),2009,Jun,Zimbabwe,ZWE
+18.06(C) 64.51(F),2012,May,Ukraine,UKR
+18.06(C) 64.51(F),2012,Apr,Iran,IRN
+18.06(C) 64.51(F),2011,Aug,Belarus,BLR
+18.06(C) 64.51(F),2001,Jun,Zambia,ZMB
+18.06(C) 64.51(F),2004,Jul,Peru,PER
+18.06(C) 64.51(F),2003,Oct,Uruguay,URY
+18.06(C) 64.51(F),2010,Jun,China,CHN
+18.06(C) 64.51(F),2005,Aug,Monaco,MCO
+18.07(C) 64.52(F),2001,Nov,Malta,MLT
+18.07(C) 64.52(F),2006,Jul,Georgia,GEO
+18.07(C) 64.52(F),2000,Oct,Lebanon,LBN
+18.07(C) 64.52(F),2001,Jun,China,CHN
+18.07(C) 64.53(F),2001,Jul,Bolivia,BOL
+18.07(C) 64.53(F),2003,Jan,Myanmar (Burma),MMR
+18.07(C) 64.53(F),2009,May,Greece,GRC
+18.07(C) 64.53(F),2004,Nov,Israel,ISR
+18.07(C) 64.53(F),2016,Aug,Poland,POL
+18.07(C) 64.53(F),2007,May,Swaziland,SWZ
+18.08(C) 64.54(F),2002,Aug,Swaziland,SWZ
+18.08(C) 64.54(F),2001,Jul,Bhutan,BTN
+18.08(C) 64.54(F),2007,Nov,Israel,ISR
+18.08(C) 64.55(F),2016,Jul,Latvia,LVA
+18.08(C) 64.55(F),2012,Sep,Romania,ROU
+18.09(C) 64.56(F),2010,Feb,Libya,LBY
+18.09(C) 64.56(F),2010,Jun,Bosnia and Herzegovina,BIH
+18.09(C) 64.56(F),2004,Aug,Bhutan,BTN
+18.09(C) 64.56(F),2003,May,Namibia,NAM
+18.09(C) 64.56(F),2010,May,Australia,AUS
+18.09(C) 64.56(F),2002,Jun,Andorra,AND
+18.09(C) 64.57(F),2015,Aug,Mongolia,MNG
+18.09(C) 64.57(F),2006,Aug,Bosnia and Herzegovina,BIH
+18.09(C) 64.57(F),2007,Jun,United States,USA
+18.09(C) 64.57(F),2000,Oct,Iran,IRN
+18.1(C) 64.57(F),2013,Jun,China,CHN
+18.1(C) 64.58(F),2004,Jul,Belarus,BLR
+18.1(C) 64.58(F),2006,Sep,Albania,ALB
+18.1(C) 64.58(F),2000,Jun,China,CHN
+18.1(C) 64.58(F),2015,Jun,Slovenia,SVN
+18.1(C) 64.58(F),2002,Jan,Lesotho,LSO
+18.1(C) 64.58(F),2002,Jun,China,CHN
+18.1(C) 64.58(F),2007,Jul,Bhutan,BTN
+18.1(C) 64.58(F),2000,Aug,Poland,POL
+18.1(C) 64.58(F),2005,Aug,Bosnia and Herzegovina,BIH
+18.1(C) 64.58(F),2002,Jul,Monaco,MCO
+18.1(C) 64.58(F),2007,Jul,Monaco,MCO
+18.11(C) 64.59(F),2002,Jun,France,FRA
+18.11(C) 64.59(F),2004,Sep,Andorra,AND
+18.11(C) 64.6(F),2008,Apr,Uruguay,URY
+18.11(C) 64.6(F),2003,Sep,Turkey,TUR
+18.11(C) 64.6(F),2004,Jun,Peru,PER
+18.11(C) 64.6(F),2013,Sep,Italy,ITA
+18.11(C) 64.6(F),2000,Jun,Nepal,NPL
+18.12(C) 64.61(F),2011,Jan,Bahrain,BHR
+18.12(C) 64.62(F),2000,Aug,Germany,DEU
+18.12(C) 64.62(F),2003,Aug,Denmark,DNK
+18.13(C) 64.63(F),2001,Jun,Andorra,AND
+18.13(C) 64.63(F),2013,Jun,Zambia,ZMB
+18.13(C) 64.63(F),2001,Feb,Bahrain,BHR
+18.13(C) 64.63(F),2012,Feb,Bahrain,BHR
+18.13(C) 64.63(F),2011,Jul,Mongolia,MNG
+18.13(C) 64.63(F),2000,Jun,Andorra,AND
+18.13(C) 64.63(F),2010,Mar,Mexico,MEX
+18.13(C) 64.63(F),2013,Aug,Paraguay,PRY
+18.13(C) 64.63(F),2016,May,Namibia,NAM
+18.13(C) 64.63(F),2003,Dec,India,IND
+18.13(C) 64.64(F),2013,Jun,Lithuania,LTU
+18.14(C) 64.64(F),2006,Sep,Belgium,BEL
+18.14(C) 64.64(F),2012,Sep,Croatia,HRV
+18.14(C) 64.65(F),2011,Jan,Vietnam,VNM
+18.14(C) 64.65(F),2000,Apr,Syria,SYR
+18.14(C) 64.65(F),2000,Nov,Algeria,DZA
+18.14(C) 64.66(F),2001,Mar,Argentina,ARG
+18.15(C) 64.66(F),2009,Sep,Moldova,MDA
+18.15(C) 64.67(F),2007,Aug,France,FRA
+18.15(C) 64.67(F),2004,Feb,Saudi Arabia,SAU
+18.15(C) 64.67(F),2010,Jul,Austria,AUT
+18.15(C) 64.67(F),2014,Aug,Botswana,BWA
+18.15(C) 64.67(F),2009,Jul,Lithuania,LTU
+18.15(C) 64.67(F),2012,Aug,Botswana,BWA
+18.15(C) 64.67(F),2012,Jul,Mongolia,MNG
+18.15(C) 64.68(F),2013,Apr,Cyprus,CYP
+18.15(C) 64.68(F),2008,Aug,Nepal,NPL
+18.16(C) 64.68(F),2010,Apr,Syria,SYR
+18.16(C) 64.68(F),2005,Jul,Peru,PER
+18.16(C) 64.68(F),2015,Jan,Qatar,QAT
+18.16(C) 64.68(F),2006,May,Portugal,PRT
+18.16(C) 64.68(F),2009,Jan,Myanmar (Burma),MMR
+18.16(C) 64.68(F),2011,Aug,Germany,DEU
+18.16(C) 64.68(F),2015,Nov,Malta,MLT
+18.16(C) 64.69(F),2015,Nov,Algeria,DZA
+18.16(C) 64.69(F),2010,May,Bolivia,BOL
+18.16(C) 64.69(F),2015,Jun,Turkey,TUR
+18.16(C) 64.69(F),2004,Jul,Paraguay,PRY
+18.16(C) 64.69(F),2010,Feb,Kuwait,KWT
+18.16(C) 64.7(F),2005,Jul,Bhutan,BTN
+18.16(C) 64.7(F),2011,Jun,China,CHN
+18.17(C) 64.7(F),2011,Nov,Mexico,MEX
+18.17(C) 64.7(F),2013,Jan,Myanmar (Burma),MMR
+18.17(C) 64.7(F),2014,Nov,Tunisia,TUN
+18.17(C) 64.7(F),2003,May,Romania,ROU
+18.17(C) 64.71(F),2011,Feb,Lesotho,LSO
+18.17(C) 64.71(F),2002,Jun,United States,USA
+18.17(C) 64.71(F),2002,May,Botswana,BWA
+18.17(C) 64.71(F),2007,May,Namibia,NAM
+18.17(C) 64.71(F),2006,Aug,Belarus,BLR
+18.17(C) 64.71(F),2011,Apr,Jordan,JOR
+18.18(C) 64.72(F),2013,Aug,Georgia,GEO
+18.18(C) 64.72(F),2016,May,Swaziland,SWZ
+18.18(C) 64.72(F),2012,Mar,Algeria,DZA
+18.18(C) 64.72(F),2000,May,Greece,GRC
+18.18(C) 64.72(F),2016,May,Botswana,BWA
+18.18(C) 64.72(F),2004,Dec,Qatar,QAT
+18.18(C) 64.72(F),2012,Dec,Saudi Arabia,SAU
+18.18(C) 64.72(F),2008,Jun,Peru,PER
+18.18(C) 64.72(F),2007,Jun,Poland,POL
+18.18(C) 64.72(F),2009,Nov,Mexico,MEX
+18.18(C) 64.72(F),2016,Jun,Poland,POL
+18.18(C) 64.72(F),2008,May,Australia,AUS
+18.18(C) 64.72(F),2002,May,Swaziland,SWZ
+18.18(C) 64.73(F),2007,Aug,Latvia,LVA
+18.18(C) 64.73(F),2005,Sep,Italy,ITA
+18.18(C) 64.73(F),2006,Jul,Mongolia,MNG
+18.19(C) 64.74(F),2014,Jun,Bhutan,BTN
+18.19(C) 64.74(F),2004,Aug,Denmark,DNK
+18.19(C) 64.74(F),2007,Jun,China,CHN
+18.19(C) 64.74(F),2015,Aug,Swaziland,SWZ
+18.19(C) 64.75(F),2016,May,Bolivia,BOL
+18.19(C) 64.75(F),2008,Jul,Zambia,ZMB
+18.19(C) 64.75(F),2001,Mar,Iraq,IRQ
+18.19(C) 64.75(F),2006,Jun,Bolivia,BOL
+18.2(C) 64.75(F),2015,Sep,Ukraine,UKR
+18.2(C) 64.76(F),2010,Mar,Israel,ISR
+18.2(C) 64.76(F),2006,Sep,Croatia,HRV
+18.2(C) 64.76(F),2013,Nov,Argentina,ARG
+18.2(C) 64.76(F),2016,Aug,Czech Republic,CZE
+18.2(C) 64.76(F),2001,Apr,Uruguay,URY
+18.2(C) 64.76(F),2014,Feb,Qatar,QAT
+18.2(C) 64.77(F),2012,Aug,Bhutan,BTN
+18.21(C) 64.77(F),2012,Aug,Swaziland,SWZ
+18.21(C) 64.78(F),2012,Oct,Uruguay,URY
+18.21(C) 64.78(F),2004,Mar,Algeria,DZA
+18.21(C) 64.78(F),2007,Jul,France,FRA
+18.21(C) 64.79(F),2006,Apr,Iran,IRN
+18.21(C) 64.79(F),2009,Mar,Libya,LBY
+18.22(C) 64.79(F),2008,Jun,Republic of Montenegro,MNE
+18.22(C) 64.79(F),2015,Jan,Myanmar (Burma),MMR
+18.22(C) 64.79(F),2012,Jun,Zambia,ZMB
+18.22(C) 64.8(F),2000,Jun,Japan,JPN
+18.22(C) 64.8(F),2014,Jun,Bosnia and Herzegovina,BIH
+18.22(C) 64.8(F),2008,Mar,Argentina,ARG
+18.22(C) 64.8(F),2014,Jul,Finland,FIN
+18.22(C) 64.8(F),2010,Jul,Finland,FIN
+18.22(C) 64.8(F),2007,Jan,Yemen,YEM
+18.23(C) 64.81(F),2014,May,Kazakhstan,KAZ
+18.23(C) 64.81(F),2001,Nov,Mexico,MEX
+18.23(C) 64.81(F),2008,Jul,Slovakia,SVK
+18.23(C) 64.81(F),2007,May,Botswana,BWA
+18.23(C) 64.82(F),2014,Jun,Korea. Democratic People's Republic of,PRK
+18.23(C) 64.82(F),2001,May,Bolivia,BOL
+18.23(C) 64.82(F),2009,Dec,Saudi Arabia,SAU
+18.23(C) 64.82(F),2013,Aug,Peru,PER
+18.23(C) 64.82(F),2013,Jul,Lithuania,LTU
+18.24(C) 64.82(F),2016,Sep,Republic of Serbia,SRB
+18.24(C) 64.83(F),2015,Sep,Macedonia,MKD
+18.24(C) 64.83(F),2000,Dec,India,IND
+18.24(C) 64.83(F),2004,Jun,Croatia,HRV
+18.24(C) 64.83(F),2011,Sep,Romania,ROU
+18.24(C) 64.83(F),2009,Jun,Bhutan,BTN
+18.24(C) 64.83(F),2000,Aug,Luxembourg,LUX
+18.24(C) 64.83(F),2011,Mar,Egypt,EGY
+18.24(C) 64.84(F),2010,Jun,Bhutan,BTN
+18.24(C) 64.84(F),2010,Aug,Slovakia,SVK
+18.24(C) 64.84(F),2002,Aug,Luxembourg,LUX
+18.24(C) 64.84(F),2002,May,Hungary,HUN
+18.25(C) 64.84(F),2007,Feb,Saudi Arabia,SAU
+18.25(C) 64.84(F),2007,Mar,Algeria,DZA
+18.25(C) 64.84(F),2006,Jun,United States,USA
+18.25(C) 64.84(F),2003,May,Swaziland,SWZ
+18.25(C) 64.85(F),2013,Jun,Italy,ITA
+18.25(C) 64.85(F),2009,Aug,Armenia,ARM
+18.25(C) 64.85(F),2008,Aug,Czech Republic,CZE
+18.25(C) 64.86(F),2001,Oct,Uruguay,URY
+18.25(C) 64.86(F),2015,Sep,Armenia,ARM
+18.26(C) 64.86(F),2011,Oct,Portugal,PRT
+18.26(C) 64.86(F),2001,Apr,Cyprus,CYP
+18.26(C) 64.86(F),2016,Aug,Netherlands,NLD
+18.26(C) 64.86(F),2011,Jul,Bolivia,BOL
+18.26(C) 64.86(F),2000,Apr,Uzbekistan,UZB
+18.26(C) 64.86(F),2014,Feb,Mexico,MEX
+18.26(C) 64.86(F),2008,Feb,Vietnam,VNM
+18.26(C) 64.86(F),2013,Jul,Malawi,MWI
+18.26(C) 64.86(F),2010,Aug,Monaco,MCO
+18.26(C) 64.87(F),2009,Aug,Bhutan,BTN
+18.26(C) 64.87(F),2011,Jun,Paraguay,PRY
+18.26(C) 64.87(F),2005,Jul,Germany,DEU
+18.26(C) 64.87(F),2008,Sep,Namibia,NAM
+18.26(C) 64.87(F),2004,Aug,Slovakia,SVK
+18.26(C) 64.87(F),2011,Aug,Nepal,NPL
+18.26(C) 64.87(F),2005,Jun,Bolivia,BOL
+18.26(C) 64.87(F),2009,Jul,Georgia,GEO
+18.26(C) 64.88(F),2013,Jul,Bhutan,BTN
+18.27(C) 64.88(F),2007,Jul,Belarus,BLR
+18.27(C) 64.89(F),2008,Dec,Lesotho,LSO
+18.27(C) 64.89(F),2014,Jun,Romania,ROU
+18.27(C) 64.89(F),2010,Nov,Malta,MLT
+18.27(C) 64.89(F),2004,Apr,Tunisia,TUN
+18.27(C) 64.89(F),2012,Jan,Myanmar (Burma),MMR
+18.27(C) 64.9(F),2001,Jan,United Arab Emirates,ARE
+18.28(C) 64.9(F),2014,Jun,Macedonia,MKD
+18.28(C) 64.9(F),2004,Jul,Malawi,MWI
+18.28(C) 64.9(F),2014,Jan,United Arab Emirates,ARE
+18.28(C) 64.9(F),2006,Jun,Zambia,ZMB
+18.28(C) 64.9(F),2009,May,Namibia,NAM
+18.28(C) 64.91(F),2013,Aug,Nepal,NPL
+18.28(C) 64.91(F),2007,Jun,Czech Republic,CZE
+18.28(C) 64.91(F),2007,Aug,Peru,PER
+18.28(C) 64.91(F),2016,Jul,Netherlands,NLD
+18.28(C) 64.91(F),2014,Apr,South Africa,ZAF
+18.28(C) 64.91(F),2004,Jan,Bangladesh,BGD
+18.28(C) 64.91(F),2005,Jan,United Arab Emirates,ARE
+18.29(C) 64.91(F),2003,Nov,Israel,ISR
+18.29(C) 64.91(F),2011,May,Lebanon,LBN
+18.29(C) 64.91(F),2016,Sep,Hungary,HUN
+18.29(C) 64.92(F),2005,Feb,Qatar,QAT
+18.29(C) 64.92(F),2016,Aug,Germany,DEU
+18.29(C) 64.92(F),2010,Feb,Egypt,EGY
+18.29(C) 64.92(F),2010,Jun,Macedonia,MKD
+18.29(C) 64.92(F),2010,Aug,Estonia,EST
+18.29(C) 64.92(F),2001,Jul,Angola,AGO
+18.29(C) 64.92(F),2015,Dec,Bahrain,BHR
+18.29(C) 64.92(F),2000,Feb,Mexico,MEX
+18.29(C) 64.93(F),2002,Apr,Israel,ISR
+18.29(C) 64.93(F),2016,Nov,Israel,ISR
+18.3(C) 64.93(F),2003,May,Croatia,HRV
+18.3(C) 64.94(F),2001,Jun,Italy,ITA
+18.3(C) 64.94(F),2005,Aug,Bhutan,BTN
+18.3(C) 64.94(F),2008,Jun,Slovenia,SVN
+18.3(C) 64.94(F),2011,Apr,Iran,IRN
+18.3(C) 64.94(F),2013,Jul,Austria,AUT
+18.3(C) 64.94(F),2008,Jul,Belgium,BEL
+18.31(C) 64.95(F),2008,Jul,Germany,DEU
+18.31(C) 64.95(F),2011,Nov,Kuwait,KWT
+18.31(C) 64.96(F),2007,Aug,Bhutan,BTN
+18.31(C) 64.96(F),2015,Apr,South Africa,ZAF
+18.31(C) 64.96(F),2011,Jul,Malawi,MWI
+18.31(C) 64.97(F),2012,Sep,Macedonia,MKD
+18.31(C) 64.97(F),2010,Dec,Saudi Arabia,SAU
+18.32(C) 64.97(F),2000,Aug,Nepal,NPL
+18.32(C) 64.97(F),2015,Jun,Macedonia,MKD
+18.32(C) 64.97(F),2007,Jan,Niger,NER
+18.32(C) 64.97(F),2004,Aug,Lithuania,LTU
+18.32(C) 64.97(F),2002,May,Lebanon,LBN
+18.32(C) 64.98(F),2016,Jun,Zambia,ZMB
+18.32(C) 64.98(F),2003,Nov,Argentina,ARG
+18.32(C) 64.98(F),2002,Nov,Malta,MLT
+18.32(C) 64.98(F),2005,Jun,Korea. Democratic People's Republic of,PRK
+18.33(C) 64.99(F),2013,Aug,Netherlands,NLD
+18.33(C) 64.99(F),2009,Jun,Croatia,HRV
+18.33(C) 64.99(F),2002,Nov,Algeria,DZA
+18.33(C) 64.99(F),2013,Aug,Luxembourg,LUX
+18.33(C) 64.99(F),2002,Nov,Israel,ISR
+18.33(C) 65.0(F),2003,Feb,Saudi Arabia,SAU
+18.34(C) 65.01(F),2005,Jul,Luxembourg,LUX
+18.34(C) 65.01(F),2006,Dec,United Arab Emirates,ARE
+18.34(C) 65.01(F),2000,Feb,Qatar,QAT
+18.34(C) 65.01(F),2006,Aug,Bhutan,BTN
+18.34(C) 65.02(F),2012,Nov,Tunisia,TUN
+18.34(C) 65.02(F),2010,Nov,Jordan,JOR
+18.34(C) 65.02(F),2015,Apr,Israel,ISR
+18.34(C) 65.02(F),2007,Jan,Myanmar (Burma),MMR
+18.35(C) 65.02(F),2014,Mar,Algeria,DZA
+18.35(C) 65.03(F),2002,Aug,Nepal,NPL
+18.35(C) 65.03(F),2002,Jun,Paraguay,PRY
+18.35(C) 65.03(F),2015,Aug,Botswana,BWA
+18.35(C) 65.03(F),2014,Dec,Saudi Arabia,SAU
+18.35(C) 65.04(F),2014,Sep,Italy,ITA
+18.36(C) 65.04(F),2006,Nov,Algeria,DZA
+18.36(C) 65.04(F),2000,Jan,Myanmar (Burma),MMR
+18.36(C) 65.04(F),2002,Jun,Zambia,ZMB
+18.36(C) 65.05(F),2009,Jun,Macedonia,MKD
+18.36(C) 65.05(F),2013,Jun,Bhutan,BTN
+18.36(C) 65.05(F),2009,Jul,Luxembourg,LUX
+18.36(C) 65.05(F),2004,Nov,Lesotho,LSO
+18.36(C) 65.05(F),2012,Mar,Kuwait,KWT
+18.36(C) 65.05(F),2012,Jul,Malawi,MWI
+18.36(C) 65.05(F),2003,Apr,Jordan,JOR
+18.37(C) 65.06(F),2016,May,Zimbabwe,ZWE
+18.37(C) 65.06(F),2004,Feb,Lesotho,LSO
+18.37(C) 65.06(F),2008,Aug,Swaziland,SWZ
+18.37(C) 65.06(F),2012,Jun,United States,USA
+18.37(C) 65.06(F),2001,Jun,Albania,ALB
+18.37(C) 65.07(F),2012,Sep,Hungary,HUN
+18.37(C) 65.07(F),2009,Oct,Iran,IRN
+18.37(C) 65.07(F),2014,Dec,Bangladesh,BGD
+18.38(C) 65.08(F),2001,May,Namibia,NAM
+18.38(C) 65.08(F),2015,Jul,Bhutan,BTN
+18.38(C) 65.08(F),2003,Jun,Japan,JPN
+18.38(C) 65.08(F),2012,Apr,Cyprus,CYP
+18.38(C) 65.09(F),2016,Jul,Lithuania,LTU
+18.38(C) 65.09(F),2007,Jul,Malawi,MWI
+18.39(C) 65.09(F),2007,Aug,Czech Republic,CZE
+18.39(C) 65.1(F),2013,Aug,Belarus,BLR
+18.39(C) 65.1(F),2002,Jun,Republic of Montenegro,MNE
+18.39(C) 65.1(F),2013,Jun,Peru,PER
+18.39(C) 65.1(F),2015,Jun,Zambia,ZMB
+18.39(C) 65.11(F),2006,Jan,Myanmar (Burma),MMR
+18.39(C) 65.11(F),2006,Jul,New Caledonia,NCL
+18.4(C) 65.11(F),2005,Jul,Czech Republic,CZE
+18.4(C) 65.12(F),2007,Dec,India,IND
+18.4(C) 65.12(F),2016,Sep,Croatia,HRV
+18.4(C) 65.12(F),2008,Aug,Poland,POL
+18.4(C) 65.12(F),2004,Dec,Lesotho,LSO
+18.4(C) 65.12(F),2011,Oct,Iran,IRN
+18.4(C) 65.12(F),2002,Feb,Saudi Arabia,SAU
+18.4(C) 65.12(F),2001,Jul,Malawi,MWI
+18.4(C) 65.12(F),2010,Jul,Zambia,ZMB
+18.4(C) 65.12(F),2014,Apr,Uruguay,URY
+18.4(C) 65.12(F),2016,Nov,Algeria,DZA
+18.4(C) 65.13(F),2000,May,Zimbabwe,ZWE
+18.4(C) 65.13(F),2013,Jun,Armenia,ARM
+18.4(C) 65.13(F),2003,Jul,Denmark,DNK
+18.41(C) 65.14(F),2012,Feb,Lesotho,LSO
+18.41(C) 65.14(F),2011,Jul,Slovenia,SVN
+18.41(C) 65.14(F),2001,Jan,Yemen,YEM
+18.41(C) 65.14(F),2008,Jan,Yemen,YEM
+18.41(C) 65.14(F),2013,Apr,Uruguay,URY
+18.41(C) 65.14(F),2006,May,Paraguay,PRY
+18.41(C) 65.14(F),2010,Jun,Belarus,BLR
+18.41(C) 65.15(F),2010,Aug,Slovenia,SVN
+18.42(C) 65.15(F),2010,Jun,Bolivia,BOL
+18.42(C) 65.15(F),2000,Aug,Belgium,BEL
+18.42(C) 65.15(F),2009,Jul,Germany,DEU
+18.42(C) 65.16(F),2002,Jun,Peru,PER
+18.42(C) 65.16(F),2008,Nov,Israel,ISR
+18.43(C) 65.17(F),2008,Jul,Czech Republic,CZE
+18.43(C) 65.17(F),2014,Jun,France,FRA
+18.43(C) 65.17(F),2005,Jul,Belgium,BEL
+18.43(C) 65.17(F),2004,Jul,Nepal,NPL
+18.43(C) 65.17(F),2003,May,Botswana,BWA
+18.43(C) 65.17(F),2004,Oct,Iran,IRN
+18.43(C) 65.18(F),2007,Jun,Slovakia,SVK
+18.43(C) 65.18(F),2007,Aug,Paraguay,PRY
+18.43(C) 65.18(F),2004,Sep,Swaziland,SWZ
+18.44(C) 65.19(F),2011,Nov,Rwanda,RWA
+18.44(C) 65.19(F),2012,Jun,Armenia,ARM
+18.44(C) 65.19(F),2013,Dec,Yemen,YEM
+18.44(C) 65.19(F),2004,Jul,Monaco,MCO
+18.44(C) 65.2(F),2006,Aug,Bolivia,BOL
+18.45(C) 65.2(F),2004,Jun,Malawi,MWI
+18.45(C) 65.2(F),2001,Jun,Japan,JPN
+18.45(C) 65.2(F),2003,Jul,Peru,PER
+18.45(C) 65.21(F),2014,Jun,Ukraine,UKR
+18.45(C) 65.21(F),2004,Apr,Jordan,JOR
+18.45(C) 65.22(F),2008,Jan,Lesotho,LSO
+18.45(C) 65.22(F),2014,Mar,Libya,LBY
+18.46(C) 65.22(F),2005,May,Namibia,NAM
+18.46(C) 65.22(F),2001,Aug,Botswana,BWA
+18.46(C) 65.23(F),2006,Aug,Croatia,HRV
+18.46(C) 65.23(F),2011,Oct,Lebanon,LBN
+18.46(C) 65.23(F),2013,Dec,Qatar,QAT
+18.46(C) 65.23(F),2015,Aug,Namibia,NAM
+18.46(C) 65.23(F),2005,Jul,Slovakia,SVK
+18.46(C) 65.23(F),2015,Jun,Angola,AGO
+18.46(C) 65.23(F),2015,Jul,Netherlands,NLD
+18.46(C) 65.23(F),2005,Jun,China,CHN
+18.46(C) 65.23(F),2011,Nov,Algeria,DZA
+18.46(C) 65.23(F),2001,Jul,Mongolia,MNG
+18.46(C) 65.23(F),2013,Jun,Korea. Democratic People's Republic of,PRK
+18.46(C) 65.24(F),2016,Jun,Japan,JPN
+18.47(C) 65.24(F),2014,Aug,China,CHN
+18.47(C) 65.24(F),2012,Jul,Latvia,LVA
+18.47(C) 65.24(F),2007,Nov,Mexico,MEX
+18.47(C) 65.24(F),2002,Aug,Slovenia,SVN
+18.47(C) 65.24(F),2005,Apr,Tunisia,TUN
+18.47(C) 65.24(F),2004,Jan,Myanmar (Burma),MMR
+18.47(C) 65.24(F),2003,Jun,Bolivia,BOL
+18.47(C) 65.25(F),2003,Aug,Zimbabwe,ZWE
+18.47(C) 65.25(F),2002,Jan,Myanmar (Burma),MMR
+18.47(C) 65.25(F),2007,Jun,Belarus,BLR
+18.47(C) 65.25(F),2001,Jul,Czech Republic,CZE
+18.48(C) 65.26(F),2005,Nov,Argentina,ARG
+18.48(C) 65.26(F),2012,Nov,Cyprus,CYP
+18.48(C) 65.26(F),2003,Nov,Malta,MLT
+18.48(C) 65.26(F),2000,Jun,Ukraine,UKR
+18.48(C) 65.26(F),2007,Mar,Libya,LBY
+18.48(C) 65.26(F),2004,May,Malta,MLT
+18.48(C) 65.27(F),2009,Jun,Japan,JPN
+18.48(C) 65.27(F),2008,May,Peru,PER
+18.48(C) 65.27(F),2016,Sep,France,FRA
+18.48(C) 65.27(F),2016,Jul,Bolivia,BOL
+18.49(C) 65.28(F),2000,Jun,Slovenia,SVN
+18.49(C) 65.28(F),2010,Aug,Bhutan,BTN
+18.49(C) 65.28(F),2008,Feb,Yemen,YEM
+18.49(C) 65.28(F),2006,Jul,Switzerland,CHE
+18.49(C) 65.28(F),2003,Mar,Argentina,ARG
+18.49(C) 65.28(F),2007,Aug,Slovenia,SVN
+18.49(C) 65.28(F),2009,Jul,Belgium,BEL
+18.49(C) 65.28(F),2014,Jun,Zambia,ZMB
+18.49(C) 65.28(F),2010,Apr,Iran,IRN
+18.49(C) 65.29(F),2007,Jul,Poland,POL
+18.49(C) 65.29(F),2016,Sep,Moldova,MDA
+18.49(C) 65.29(F),2001,Jul,Netherlands,NLD
+18.5(C) 65.29(F),2010,Jan,Bahrain,BHR
+18.5(C) 65.29(F),2016,Aug,Luxembourg,LUX
+18.5(C) 65.29(F),2009,Jan,Vietnam,VNM
+18.5(C) 65.29(F),2003,Jun,Slovakia,SVK
+18.5(C) 65.3(F),2008,Jul,Monaco,MCO
+18.5(C) 65.3(F),2008,Feb,Laos,LAO
+18.5(C) 65.31(F),2010,Feb,Lesotho,LSO
+18.5(C) 65.31(F),2015,Mar,Algeria,DZA
+18.51(C) 65.31(F),2008,Jun,Malawi,MWI
+18.51(C) 65.31(F),2005,Nov,Mexico,MEX
+18.51(C) 65.32(F),2008,Feb,Lesotho,LSO
+18.51(C) 65.32(F),2006,Apr,Jordan,JOR
+18.51(C) 65.32(F),2016,Aug,Belarus,BLR
+18.51(C) 65.33(F),2003,Aug,New Caledonia,NCL
+18.52(C) 65.33(F),2005,Nov,Egypt,EGY
+18.52(C) 65.33(F),2014,Apr,Iran,IRN
+18.52(C) 65.33(F),2014,Mar,Egypt,EGY
+18.52(C) 65.33(F),2002,Aug,Botswana,BWA
+18.52(C) 65.33(F),2012,Nov,Mexico,MEX
+18.52(C) 65.33(F),2006,Aug,Nepal,NPL
+18.52(C) 65.34(F),2013,Jun,Nepal,NPL
+18.52(C) 65.34(F),2004,Jun,Angola,AGO
+18.52(C) 65.34(F),2001,May,Botswana,BWA
+18.52(C) 65.34(F),2001,Feb,Qatar,QAT
+18.52(C) 65.34(F),2014,Jul,Peru,PER
+18.52(C) 65.34(F),2013,May,Swaziland,SWZ
+18.53(C) 65.35(F),2006,Nov,Mexico,MEX
+18.53(C) 65.35(F),2008,May,Namibia,NAM
+18.53(C) 65.35(F),2015,Sep,Republic of Serbia,SRB
+18.53(C) 65.35(F),2004,Jun,Hungary,HUN
+18.53(C) 65.35(F),2001,Jan,Lesotho,LSO
+18.53(C) 65.35(F),2011,Feb,Saudi Arabia,SAU
+18.53(C) 65.36(F),2000,Jul,Nepal,NPL
+18.53(C) 65.36(F),2005,Aug,New Caledonia,NCL
+18.53(C) 65.36(F),2013,Aug,Germany,DEU
+18.53(C) 65.36(F),2009,Sep,Albania,ALB
+18.53(C) 65.36(F),2012,Feb,Qatar,QAT
+18.53(C) 65.36(F),2007,May,Peru,PER
+18.53(C) 65.36(F),2011,Jun,Bolivia,BOL
+18.53(C) 65.36(F),2004,May,Swaziland,SWZ
+18.54(C) 65.37(F),2009,Sep,Croatia,HRV
+18.54(C) 65.37(F),2015,Jul,Nepal,NPL
+18.54(C) 65.37(F),2016,Jun,Belarus,BLR
+18.54(C) 65.37(F),2009,May,Swaziland,SWZ
+18.54(C) 65.38(F),2004,Aug,Nepal,NPL
+18.54(C) 65.38(F),2003,May,Uzbekistan,UZB
+18.54(C) 65.38(F),2012,Aug,Nepal,NPL
+18.54(C) 65.38(F),2013,Jun,Macedonia,MKD
+18.54(C) 65.38(F),2001,May,Paraguay,PRY
+18.54(C) 65.38(F),2015,Jun,Armenia,ARM
+18.54(C) 65.38(F),2012,Jul,Angola,AGO
+18.54(C) 65.38(F),2002,Jul,France,FRA
+18.55(C) 65.38(F),2012,Sep,Italy,ITA
+18.55(C) 65.38(F),2013,Sep,Turkey,TUR
+18.55(C) 65.39(F),2001,Jun,Paraguay,PRY
+18.55(C) 65.39(F),2009,Sep,Hungary,HUN
+18.55(C) 65.39(F),2011,Sep,Republic of Montenegro,MNE
+18.55(C) 65.39(F),2006,Jun,Nepal,NPL
+18.55(C) 65.39(F),2014,Jul,Bhutan,BTN
+18.55(C) 65.39(F),2010,Jun,Zambia,ZMB
+18.55(C) 65.39(F),2016,Nov,Malta,MLT
+18.55(C) 65.39(F),2005,Jul,Latvia,LVA
+18.55(C) 65.4(F),2013,Dec,Bangladesh,BGD
+18.55(C) 65.4(F),2006,Sep,France,FRA
+18.56(C) 65.4(F),2004,Aug,China,CHN
+18.56(C) 65.4(F),2011,Sep,Moldova,MDA
+18.56(C) 65.4(F),2006,Sep,Andorra,AND
+18.56(C) 65.41(F),2003,Aug,Paraguay,PRY
+18.56(C) 65.41(F),2003,May,Ukraine,UKR
+18.56(C) 65.41(F),2009,Oct,Portugal,PRT
+18.56(C) 65.41(F),2005,May,Lebanon,LBN
+18.57(C) 65.42(F),2007,May,Moldova,MDA
+18.57(C) 65.42(F),2011,Aug,Georgia,GEO
+18.57(C) 65.42(F),2014,Apr,Cyprus,CYP
+18.57(C) 65.42(F),2004,Jul,Slovenia,SVN
+18.57(C) 65.43(F),2008,Aug,Slovakia,SVK
+18.57(C) 65.43(F),2000,Jun,Peru,PER
+18.57(C) 65.43(F),2013,Nov,Cyprus,CYP
+18.57(C) 65.43(F),2015,Jul,Kyrgyzstan,KGZ
+18.57(C) 65.43(F),2005,Nov,Libya,LBY
+18.57(C) 65.43(F),2012,Mar,Argentina,ARG
+18.57(C) 65.43(F),2002,Sep,Spain,ESP
+18.58(C) 65.44(F),2009,Jul,Angola,AGO
+18.58(C) 65.44(F),2005,Jul,Estonia,EST
+18.58(C) 65.44(F),2006,Jul,Malawi,MWI
+18.58(C) 65.44(F),2005,Jul,Nepal,NPL
+18.58(C) 65.44(F),2007,Oct,Uruguay,URY
+18.58(C) 65.44(F),2009,Jan,Yemen,YEM
+18.58(C) 65.44(F),2014,Jul,New Caledonia,NCL
+18.58(C) 65.45(F),2013,Jan,Qatar,QAT
+18.58(C) 65.45(F),2008,Dec,Qatar,QAT
+18.58(C) 65.45(F),2003,Jun,Belgium,BEL
+18.58(C) 65.45(F),2011,Jul,Angola,AGO
+18.58(C) 65.45(F),2004,Jul,Angola,AGO
+18.59(C) 65.46(F),2015,Jul,Bolivia,BOL
+18.59(C) 65.46(F),2011,Dec,India,IND
+18.59(C) 65.46(F),2000,May,Lebanon,LBN
+18.59(C) 65.46(F),2005,Jan,Myanmar (Burma),MMR
+18.59(C) 65.46(F),2003,Jul,Nepal,NPL
+18.59(C) 65.46(F),2002,Aug,France,FRA
+18.59(C) 65.46(F),2016,Jul,Paraguay,PRY
+18.59(C) 65.46(F),2011,Aug,Poland,POL
+18.59(C) 65.46(F),2016,Oct,Iran,IRN
+18.59(C) 65.47(F),2003,Aug,Bhutan,BTN
+18.59(C) 65.47(F),2012,Dec,India,IND
+18.59(C) 65.47(F),2015,Jun,Bolivia,BOL
+18.6(C) 65.47(F),2013,May,Zimbabwe,ZWE
+18.6(C) 65.48(F),2001,Jul,Monaco,MCO
+18.6(C) 65.48(F),2005,Mar,Mexico,MEX
+18.6(C) 65.48(F),2002,May,Uzbekistan,UZB
+18.6(C) 65.48(F),2013,Apr,Jordan,JOR
+18.6(C) 65.48(F),2012,Jul,Georgia,GEO
+18.6(C) 65.48(F),2006,Feb,Saudi Arabia,SAU
+18.6(C) 65.49(F),2000,Sep,Korea. Republic of,KOR
+18.61(C) 65.49(F),2015,Aug,Latvia,LVA
+18.61(C) 65.49(F),2015,Aug,Nepal,NPL
+18.61(C) 65.5(F),2003,Nov,Algeria,DZA
+18.61(C) 65.5(F),2002,Jan,Chad,TCD
+18.61(C) 65.5(F),2002,Jan,Yemen,YEM
+18.61(C) 65.5(F),2011,Jul,Peru,PER
+18.61(C) 65.5(F),2001,Aug,Belarus,BLR
+18.61(C) 65.5(F),2008,Sep,Spain,ESP
+18.61(C) 65.51(F),2014,Oct,Portugal,PRT
+18.62(C) 65.51(F),2016,Jul,Nepal,NPL
+18.62(C) 65.51(F),2013,May,Ukraine,UKR
+18.62(C) 65.51(F),2015,Jan,Yemen,YEM
+18.62(C) 65.52(F),2016,Sep,Turkey,TUR
+18.62(C) 65.52(F),2001,Sep,Uzbekistan,UZB
+18.62(C) 65.52(F),2003,Jun,Luxembourg,LUX
+18.62(C) 65.52(F),2003,Jun,Peru,PER
+18.62(C) 65.52(F),2004,Aug,Luxembourg,LUX
+18.62(C) 65.52(F),2000,Jun,Republic of Montenegro,MNE
+18.63(C) 65.53(F),2008,Jul,Belarus,BLR
+18.63(C) 65.53(F),2014,Apr,Syria,SYR
+18.63(C) 65.54(F),2012,Jul,France,FRA
+18.63(C) 65.54(F),2008,Aug,Belarus,BLR
+18.64(C) 65.54(F),2004,Aug,New Caledonia,NCL
+18.64(C) 65.55(F),2012,May,Moldova,MDA
+18.64(C) 65.55(F),2012,Jan,Yemen,YEM
+18.64(C) 65.55(F),2009,Sep,Azerbaijan,AZE
+18.64(C) 65.55(F),2005,Feb,Lesotho,LSO
+18.64(C) 65.55(F),2012,Aug,Poland,POL
+18.64(C) 65.55(F),2004,Jun,Italy,ITA
+18.64(C) 65.56(F),2001,Dec,India,IND
+18.64(C) 65.56(F),2005,Aug,France,FRA
+18.64(C) 65.56(F),2015,Dec,India,IND
+18.64(C) 65.56(F),2007,Jun,Nepal,NPL
+18.64(C) 65.56(F),2008,Apr,Turkmenistan,TKM
+18.64(C) 65.56(F),2006,Jul,Bolivia,BOL
+18.64(C) 65.56(F),2015,Nov,Israel,ISR
+18.65(C) 65.56(F),2005,Jan,Yemen,YEM
+18.65(C) 65.56(F),2008,Jul,Malawi,MWI
+18.65(C) 65.57(F),2007,Jul,Rwanda,RWA
+18.65(C) 65.57(F),2010,Aug,Bolivia,BOL
+18.65(C) 65.57(F),2003,Apr,Tunisia,TUN
+18.65(C) 65.57(F),2007,Aug,Lithuania,LTU
+18.65(C) 65.58(F),2008,Jul,Poland,POL
+18.65(C) 65.58(F),2013,Jun,United States,USA
+18.65(C) 65.58(F),2009,Jun,Peru,PER
+18.66(C) 65.58(F),2005,Jun,Republic of Serbia,SRB
+18.66(C) 65.58(F),2010,Jan,Lesotho,LSO
+18.66(C) 65.58(F),2009,Nov,Algeria,DZA
+18.66(C) 65.58(F),2015,Jun,France,FRA
+18.66(C) 65.58(F),2000,Nov,Kuwait,KWT
+18.66(C) 65.58(F),2004,Apr,South Africa,ZAF
+18.66(C) 65.58(F),2004,Jun,Albania,ALB
+18.66(C) 65.59(F),2007,Mar,Egypt,EGY
+18.66(C) 65.59(F),2016,Sep,Bulgaria,BGR
+18.66(C) 65.59(F),2008,Feb,India,IND
+18.66(C) 65.59(F),2014,Oct,Lebanon,LBN
+18.66(C) 65.6(F),2008,Jun,Angola,AGO
+18.67(C) 65.6(F),2006,Sep,Korea. Republic of,KOR
+18.67(C) 65.6(F),2003,Aug,China,CHN
+18.67(C) 65.61(F),2008,Mar,Israel,ISR
+18.67(C) 65.61(F),2001,Jul,Germany,DEU
+18.67(C) 65.61(F),2015,Jul,Switzerland,CHE
+18.67(C) 65.61(F),2016,Aug,Bhutan,BTN
+18.67(C) 65.61(F),2011,Dec,Rwanda,RWA
+18.68(C) 65.62(F),2009,Aug,Poland,POL
+18.68(C) 65.62(F),2008,Jul,Peru,PER
+18.68(C) 65.62(F),2010,Oct,Morocco,MAR
+18.68(C) 65.62(F),2016,Mar,Egypt,EGY
+18.68(C) 65.62(F),2006,Aug,Zimbabwe,ZWE
+18.68(C) 65.62(F),2010,Jan,Bangladesh,BGD
+18.68(C) 65.62(F),2012,Jun,Andorra,AND
+18.68(C) 65.62(F),2008,Aug,China,CHN
+18.68(C) 65.62(F),2006,Apr,Uruguay,URY
+18.68(C) 65.63(F),2013,Jun,Rwanda,RWA
+18.68(C) 65.63(F),2011,Jul,Nepal,NPL
+18.68(C) 65.63(F),2011,Jul,Paraguay,PRY
+18.69(C) 65.64(F),2007,Apr,Tunisia,TUN
+18.69(C) 65.64(F),2016,Jul,Georgia,GEO
+18.69(C) 65.64(F),2010,Jul,Bhutan,BTN
+18.69(C) 65.64(F),2005,Jul,Zambia,ZMB
+18.69(C) 65.65(F),2016,Apr,Uruguay,URY
+18.69(C) 65.65(F),2007,Jul,Angola,AGO
+18.7(C) 65.65(F),2007,Aug,Poland,POL
+18.7(C) 65.65(F),2013,Aug,Belgium,BEL
+18.7(C) 65.66(F),2000,Sep,Swaziland,SWZ
+18.7(C) 65.66(F),2002,Aug,Belgium,BEL
+18.7(C) 65.66(F),2001,Jun,Korea. Democratic People's Republic of,PRK
+18.7(C) 65.66(F),2011,May,Bolivia,BOL
+18.7(C) 65.66(F),2001,Sep,Swaziland,SWZ
+18.7(C) 65.66(F),2004,Aug,Belarus,BLR
+18.7(C) 65.67(F),2005,Aug,Croatia,HRV
+18.7(C) 65.67(F),2001,Aug,Nepal,NPL
+18.7(C) 65.67(F),2014,Feb,Lesotho,LSO
+18.7(C) 65.67(F),2012,Aug,New Caledonia,NCL
+18.71(C) 65.67(F),2003,Nov,Mexico,MEX
+18.71(C) 65.67(F),2001,Jun,Malawi,MWI
+18.71(C) 65.67(F),2001,Aug,Peru,PER
+18.71(C) 65.67(F),2009,May,Botswana,BWA
+18.71(C) 65.67(F),2016,Aug,Belgium,BEL
+18.71(C) 65.67(F),2006,Jun,France,FRA
+18.71(C) 65.67(F),2003,Jun,Germany,DEU
+18.71(C) 65.68(F),2011,Jun,Macedonia,MKD
+18.71(C) 65.68(F),2001,Jul,Slovakia,SVK
+18.71(C) 65.68(F),2013,Jul,Paraguay,PRY
+18.71(C) 65.68(F),2006,Dec,Rwanda,RWA
+18.71(C) 65.68(F),2015,Dec,Bangladesh,BGD
+18.71(C) 65.68(F),2005,Aug,China,CHN
+18.71(C) 65.68(F),2004,May,Zimbabwe,ZWE
+18.71(C) 65.68(F),2001,Jul,Nepal,NPL
+18.71(C) 65.68(F),2008,Jan,Myanmar (Burma),MMR
+18.72(C) 65.69(F),2005,Jun,Turkey,TUR
+18.72(C) 65.69(F),2013,Jun,Spain,ESP
+18.72(C) 65.69(F),2007,Oct,South Africa,ZAF
+18.72(C) 65.69(F),2009,Jun,Hungary,HUN
+18.72(C) 65.69(F),2010,Mar,Iraq,IRQ
+18.72(C) 65.69(F),2013,Dec,Vietnam,VNM
+18.72(C) 65.69(F),2010,Nov,Algeria,DZA
+18.72(C) 65.69(F),2015,Feb,Saudi Arabia,SAU
+18.72(C) 65.7(F),2007,Jun,Slovenia,SVN
+18.72(C) 65.7(F),2015,Nov,Libya,LBY
+18.72(C) 65.7(F),2005,Jul,Malawi,MWI
+18.73(C) 65.71(F),2016,Apr,Malta,MLT
+18.73(C) 65.71(F),2016,Mar,Algeria,DZA
+18.73(C) 65.71(F),2005,Jun,Bulgaria,BGR
+18.73(C) 65.71(F),2010,Aug,Peru,PER
+18.73(C) 65.72(F),2000,Jul,Angola,AGO
+18.73(C) 65.72(F),2002,Nov,Libya,LBY
+18.73(C) 65.72(F),2000,Nov,Malta,MLT
+18.73(C) 65.72(F),2005,Sep,Turkey,TUR
+18.73(C) 65.72(F),2014,Aug,Nepal,NPL
+18.74(C) 65.72(F),2000,Jun,Zambia,ZMB
+18.74(C) 65.72(F),2004,May,Lebanon,LBN
+18.74(C) 65.72(F),2000,Jan,Yemen,YEM
+18.74(C) 65.73(F),2015,Apr,Rwanda,RWA
+18.74(C) 65.73(F),2003,Mar,Algeria,DZA
+18.74(C) 65.74(F),2005,Jan,Niger,NER
+18.74(C) 65.74(F),2001,Jan,Niger,NER
+18.74(C) 65.74(F),2004,Dec,India,IND
+18.74(C) 65.74(F),2008,Aug,Monaco,MCO
+18.74(C) 65.74(F),2003,Jun,Ukraine,UKR
+18.75(C) 65.74(F),2010,Dec,Bahamas,BHS
+18.75(C) 65.74(F),2002,Jul,New Caledonia,NCL
+18.75(C) 65.75(F),2014,Jul,Angola,AGO
+18.75(C) 65.75(F),2006,Sep,Turkey,TUR
+18.75(C) 65.75(F),2003,Oct,Morocco,MAR
+18.75(C) 65.75(F),2001,May,Kazakhstan,KAZ
+18.75(C) 65.75(F),2012,Jun,Paraguay,PRY
+18.75(C) 65.75(F),2012,Aug,Netherlands,NLD
+18.75(C) 65.75(F),2004,Aug,Peru,PER
+18.75(C) 65.75(F),2004,Aug,Swaziland,SWZ
+18.75(C) 65.76(F),2006,Dec,India,IND
+18.76(C) 65.76(F),2000,Aug,China,CHN
+18.76(C) 65.76(F),2016,Aug,Zimbabwe,ZWE
+18.76(C) 65.76(F),2002,Feb,Bahrain,BHR
+18.76(C) 65.77(F),2002,Sep,Turkey,TUR
+18.76(C) 65.77(F),2001,Sep,Spain,ESP
+18.76(C) 65.77(F),2004,Sep,Australia,AUS
+18.76(C) 65.78(F),2014,Jan,Yemen,YEM
+18.76(C) 65.78(F),2003,Jul,Angola,AGO
+18.77(C) 65.78(F),2004,Aug,Slovenia,SVN
+18.77(C) 65.78(F),2014,Nov,Kuwait,KWT
+18.77(C) 65.78(F),2009,Jul,Mongolia,MNG
+18.77(C) 65.78(F),2002,Jan,Bangladesh,BGD
+18.77(C) 65.78(F),2010,Aug,France,FRA
+18.77(C) 65.78(F),2008,Feb,United Arab Emirates,ARE
+18.77(C) 65.78(F),2011,Apr,Israel,ISR
+18.77(C) 65.79(F),2008,Jul,Bolivia,BOL
+18.77(C) 65.79(F),2007,Jun,Zambia,ZMB
+18.77(C) 65.79(F),2010,Apr,South Africa,ZAF
+18.77(C) 65.79(F),2003,Jun,Monaco,MCO
+18.77(C) 65.79(F),2005,Jun,Peru,PER
+18.77(C) 65.79(F),2005,Jan,Bangladesh,BGD
+18.77(C) 65.79(F),2012,Sep,Moldova,MDA
+18.78(C) 65.8(F),2002,Aug,Republic of Montenegro,MNE
+18.78(C) 65.8(F),2011,Aug,Bolivia,BOL
+18.78(C) 65.8(F),2009,Jun,Andorra,AND
+18.78(C) 65.8(F),2007,Jul,Czech Republic,CZE
+18.78(C) 65.8(F),2012,May,Bolivia,BOL
+18.78(C) 65.8(F),2012,Oct,South Africa,ZAF
+18.78(C) 65.8(F),2004,Jun,Republic of Serbia,SRB
+18.78(C) 65.81(F),2009,Jan,Lesotho,LSO
+18.78(C) 65.81(F),2014,Jun,Bolivia,BOL
+18.78(C) 65.81(F),2011,Mar,Libya,LBY
+18.78(C) 65.81(F),2005,Jun,Hungary,HUN
+18.79(C) 65.82(F),2005,Jan,Lesotho,LSO
+18.79(C) 65.82(F),2001,Jul,Luxembourg,LUX
+18.79(C) 65.82(F),2016,Jul,Luxembourg,LUX
+18.79(C) 65.82(F),2012,Apr,Syria,SYR
+18.79(C) 65.82(F),2015,Aug,Austria,AUT
+18.79(C) 65.83(F),2009,Apr,Jordan,JOR
+18.8(C) 65.83(F),2012,Jul,Monaco,MCO
+18.8(C) 65.83(F),2009,Jul,Czech Republic,CZE
+18.8(C) 65.83(F),2000,Jun,Korea. Democratic People's Republic of,PRK
+18.8(C) 65.83(F),2009,May,Lebanon,LBN
+18.8(C) 65.83(F),2002,Aug,Slovakia,SVK
+18.8(C) 65.84(F),2004,Aug,Germany,DEU
+18.8(C) 65.84(F),2005,Mar,Egypt,EGY
+18.8(C) 65.84(F),2006,Jan,Lesotho,LSO
+18.8(C) 65.84(F),2015,Mar,Mexico,MEX
+18.8(C) 65.84(F),2016,Sep,Australia,AUS
+18.8(C) 65.84(F),2002,Jun,Malawi,MWI
+18.8(C) 65.84(F),2001,Aug,China,CHN
+18.8(C) 65.84(F),2014,Oct,Iran,IRN
+18.8(C) 65.85(F),2016,Aug,Slovenia,SVN
+18.8(C) 65.85(F),2016,Jul,Belgium,BEL
+18.8(C) 65.85(F),2003,Jun,Zambia,ZMB
+18.8(C) 65.85(F),2011,Jun,Japan,JPN
+18.81(C) 65.85(F),2005,Jun,Moldova,MDA
+18.81(C) 65.85(F),2014,Apr,Tunisia,TUN
+18.81(C) 65.86(F),2006,Jun,Republic of Serbia,SRB
+18.81(C) 65.86(F),2004,Aug,Czech Republic,CZE
+18.81(C) 65.86(F),2014,Jul,Slovenia,SVN
+18.81(C) 65.86(F),2003,May,Greece,GRC
+18.81(C) 65.86(F),2003,Sep,Peru,PER
+18.82(C) 65.87(F),2011,Jan,Qatar,QAT
+18.82(C) 65.87(F),2003,Apr,Israel,ISR
+18.82(C) 65.87(F),2010,Sep,Afghanistan,AFG
+18.82(C) 65.87(F),2009,Aug,China,CHN
+18.82(C) 65.87(F),2004,Nov,Libya,LBY
+18.82(C) 65.87(F),2009,Jan,India,IND
+18.82(C) 65.88(F),2005,Dec,Saudi Arabia,SAU
+18.82(C) 65.88(F),2001,Aug,Netherlands,NLD
+18.82(C) 65.88(F),2015,Jul,Belarus,BLR
+18.82(C) 65.88(F),2014,Aug,Belarus,BLR
+18.82(C) 65.88(F),2008,Jun,Rwanda,RWA
+18.83(C) 65.89(F),2016,Aug,Botswana,BWA
+18.83(C) 65.89(F),2012,Jan,Rwanda,RWA
+18.83(C) 65.89(F),2006,Aug,Hungary,HUN
+18.83(C) 65.89(F),2013,Jun,Japan,JPN
+18.83(C) 65.89(F),2007,Jun,Korea. Democratic People's Republic of,PRK
+18.83(C) 65.89(F),2012,Sep,Swaziland,SWZ
+18.83(C) 65.89(F),2015,Jun,Bosnia and Herzegovina,BIH
+18.83(C) 65.89(F),2012,Nov,Argentina,ARG
+18.83(C) 65.9(F),2010,Jun,Korea. Democratic People's Republic of,PRK
+18.83(C) 65.9(F),2004,Apr,Israel,ISR
+18.83(C) 65.9(F),2006,Jul,Bhutan,BTN
+18.84(C) 65.91(F),2006,Aug,New Caledonia,NCL
+18.84(C) 65.92(F),2015,Jul,Zambia,ZMB
+18.84(C) 65.92(F),2006,Mar,Libya,LBY
+18.84(C) 65.92(F),2013,Apr,Burundi,BDI
+18.84(C) 65.92(F),2016,Jul,Malawi,MWI
+18.84(C) 65.92(F),2001,May,Peru,PER
+18.84(C) 65.92(F),2004,Dec,Myanmar (Burma),MMR
+18.85(C) 65.92(F),2005,Jun,Zimbabwe,ZWE
+18.85(C) 65.92(F),2001,Apr,Turkmenistan,TKM
+18.85(C) 65.93(F),2003,May,Australia,AUS
+18.85(C) 65.93(F),2012,May,Botswana,BWA
+18.85(C) 65.93(F),2006,Dec,Yemen,YEM
+18.85(C) 65.93(F),2001,Jun,Bulgaria,BGR
+18.85(C) 65.93(F),2007,Jul,Nepal,NPL
+18.85(C) 65.94(F),2016,Feb,Saudi Arabia,SAU
+18.85(C) 65.94(F),2004,Aug,Poland,POL
+18.85(C) 65.94(F),2009,Sep,Italy,ITA
+18.86(C) 65.94(F),2008,Jul,Georgia,GEO
+18.86(C) 65.94(F),2011,Jun,Belarus,BLR
+18.86(C) 65.94(F),2007,Aug,Zimbabwe,ZWE
+18.86(C) 65.94(F),2006,Apr,Israel,ISR
+18.86(C) 65.94(F),2004,Aug,United States,USA
+18.86(C) 65.95(F),2003,Jul,Paraguay,PRY
+18.86(C) 65.95(F),2002,Jan,Sudan,SDN
+18.86(C) 65.96(F),2016,Jun,Bosnia and Herzegovina,BIH
+18.87(C) 65.96(F),2009,Sep,Republic of Serbia,SRB
+18.87(C) 65.96(F),2007,Jun,Angola,AGO
+18.87(C) 65.96(F),2006,Jan,United Arab Emirates,ARE
+18.87(C) 65.97(F),2008,Feb,Myanmar (Burma),MMR
+18.87(C) 65.97(F),2007,Jan,Laos,LAO
+18.87(C) 65.97(F),2004,Aug,Netherlands,NLD
+18.87(C) 65.97(F),2002,Aug,Netherlands,NLD
+18.87(C) 65.97(F),2010,Aug,Nepal,NPL
+18.87(C) 65.97(F),2013,May,Australia,AUS
+18.87(C) 65.97(F),2014,Aug,Zimbabwe,ZWE
+18.88(C) 65.98(F),2011,Jun,Zambia,ZMB
+18.88(C) 65.98(F),2004,Jun,Andorra,AND
+18.88(C) 65.98(F),2013,Jul,Belarus,BLR
+18.88(C) 65.98(F),2012,Jun,Republic of Montenegro,MNE
+18.88(C) 65.98(F),2000,Feb,India,IND
+18.88(C) 65.99(F),2007,Sep,Peru,PER
+18.88(C) 65.99(F),2006,Jun,Albania,ALB
+18.88(C) 65.99(F),2015,Aug,China,CHN
+18.88(C) 65.99(F),2013,Jul,Nepal,NPL
+18.88(C) 65.99(F),2015,Apr,Tunisia,TUN
+18.88(C) 65.99(F),2009,Jul,Bhutan,BTN
+18.89(C) 66.0(F),2012,Jul,Czech Republic,CZE
+18.89(C) 66.0(F),2011,Oct,South Africa,ZAF
+18.89(C) 66.0(F),2006,Jun,Andorra,AND
+18.89(C) 66.0(F),2005,Jul,Lithuania,LTU
+18.89(C) 66.0(F),2010,Sep,Australia,AUS
+18.89(C) 66.0(F),2016,Dec,India,IND
+18.89(C) 66.0(F),2004,Jan,Bahrain,BHR
+18.89(C) 66.01(F),2014,Jun,Andorra,AND
+18.89(C) 66.01(F),2006,Jul,Nepal,NPL
+18.89(C) 66.01(F),2014,Sep,Andorra,AND
+18.89(C) 66.01(F),2006,May,Zimbabwe,ZWE
+18.9(C) 66.01(F),2015,Sep,Spain,ESP
+18.9(C) 66.01(F),2002,Jun,Slovenia,SVN
+18.9(C) 66.01(F),2015,Jun,United States,USA
+18.9(C) 66.01(F),2004,Jul,New Caledonia,NCL
+18.9(C) 66.02(F),2007,Aug,Nepal,NPL
+18.9(C) 66.02(F),2012,May,Afghanistan,AFG
+18.9(C) 66.02(F),2010,Aug,Poland,POL
+18.9(C) 66.02(F),2012,May,Azerbaijan,AZE
+18.9(C) 66.02(F),2013,Nov,Libya,LBY
+18.9(C) 66.02(F),2005,Jul,Slovenia,SVN
+18.91(C) 66.03(F),2014,Aug,Peru,PER
+18.91(C) 66.03(F),2002,Jul,Czech Republic,CZE
+18.91(C) 66.03(F),2009,Jul,Peru,PER
+18.91(C) 66.04(F),2014,Jul,Paraguay,PRY
+18.91(C) 66.04(F),2009,Aug,United States,USA
+18.91(C) 66.04(F),2006,May,Lebanon,LBN
+18.91(C) 66.04(F),2008,Jul,Angola,AGO
+18.91(C) 66.04(F),2009,Jun,Romania,ROU
+18.91(C) 66.04(F),2009,Dec,India,IND
+18.91(C) 66.04(F),2012,Jun,Malawi,MWI
+18.91(C) 66.04(F),2000,Dec,Rwanda,RWA
+18.91(C) 66.04(F),2016,Jun,Peru,PER
+18.91(C) 66.05(F),2015,Aug,Netherlands,NLD
+18.91(C) 66.05(F),2003,Aug,Nepal,NPL
+18.92(C) 66.05(F),2013,Feb,Lesotho,LSO
+18.92(C) 66.05(F),2013,May,Moldova,MDA
+18.92(C) 66.05(F),2009,Jun,Italy,ITA
+18.92(C) 66.06(F),2003,Jul,Finland,FIN
+18.92(C) 66.06(F),2004,Sep,Turkey,TUR
+18.92(C) 66.06(F),2010,Jun,Italy,ITA
+18.92(C) 66.06(F),2013,Oct,South Africa,ZAF
+18.92(C) 66.06(F),2010,Jul,Malawi,MWI
+18.92(C) 66.06(F),2005,Jun,Albania,ALB
+18.92(C) 66.06(F),2015,Jan,Niger,NER
+18.93(C) 66.07(F),2008,Apr,Cyprus,CYP
+18.93(C) 66.07(F),2015,Mar,Libya,LBY
+18.93(C) 66.07(F),2003,Mar,Mexico,MEX
+18.93(C) 66.07(F),2002,Jun,Nepal,NPL
+18.93(C) 66.07(F),2001,Jul,Belgium,BEL
+18.93(C) 66.07(F),2000,Sep,Turkey,TUR
+18.93(C) 66.08(F),2009,Aug,Netherlands,NLD
+18.93(C) 66.08(F),2015,Jul,Paraguay,PRY
+18.94(C) 66.08(F),2004,Jul,France,FRA
+18.94(C) 66.08(F),2000,Dec,Bahrain,BHR
+18.94(C) 66.08(F),2006,Dec,Niger,NER
+18.94(C) 66.08(F),2015,Mar,Argentina,ARG
+18.94(C) 66.09(F),2000,Jul,New Caledonia,NCL
+18.94(C) 66.09(F),2015,Aug,New Caledonia,NCL
+18.94(C) 66.09(F),2013,Jun,Croatia,HRV
+18.94(C) 66.09(F),2013,May,Morocco,MAR
+18.94(C) 66.09(F),2014,Jul,Malawi,MWI
+18.94(C) 66.1(F),2016,Aug,Nepal,NPL
+18.95(C) 66.11(F),2011,Aug,Czech Republic,CZE
+18.95(C) 66.11(F),2016,Jul,Germany,DEU
+18.95(C) 66.11(F),2007,Nov,Libya,LBY
+18.95(C) 66.11(F),2006,Jul,Estonia,EST
+18.95(C) 66.11(F),2007,Jun,Rwanda,RWA
+18.95(C) 66.11(F),2012,Jun,Angola,AGO
+18.95(C) 66.11(F),2008,Mar,Mexico,MEX
+18.95(C) 66.12(F),2015,Jun,Nepal,NPL
+18.95(C) 66.12(F),2013,Oct,Syria,SYR
+18.95(C) 66.12(F),2001,Jul,New Caledonia,NCL
+18.96(C) 66.12(F),2007,Jun,Republic of Montenegro,MNE
+18.96(C) 66.12(F),2002,Sep,Portugal,PRT
+18.96(C) 66.12(F),2012,Jun,Slovenia,SVN
+18.96(C) 66.12(F),2002,Aug,China,CHN
+18.96(C) 66.12(F),2005,Jun,Croatia,HRV
+18.96(C) 66.12(F),2015,Jan,Laos,LAO
+18.96(C) 66.13(F),2010,Jun,Peru,PER
+18.96(C) 66.13(F),2001,Jan,Myanmar (Burma),MMR
+18.96(C) 66.13(F),2007,Jun,Japan,JPN
+18.96(C) 66.13(F),2002,Dec,India,IND
+18.96(C) 66.13(F),2000,Apr,Uruguay,URY
+18.96(C) 66.13(F),2013,May,Greece,GRC
+18.96(C) 66.13(F),2004,Aug,Republic of Montenegro,MNE
+18.96(C) 66.14(F),2008,Dec,Laos,LAO
+18.96(C) 66.14(F),2013,May,Botswana,BWA
+18.96(C) 66.14(F),2001,Nov,Egypt,EGY
+18.97(C) 66.14(F),2002,Apr,Tunisia,TUN
+18.97(C) 66.14(F),2003,Aug,Georgia,GEO
+18.97(C) 66.14(F),2001,Aug,Germany,DEU
+18.97(C) 66.14(F),2010,Aug,Latvia,LVA
+18.97(C) 66.14(F),2006,Oct,Lebanon,LBN
+18.97(C) 66.14(F),2013,Jun,Malawi,MWI
+18.97(C) 66.14(F),2011,Jun,Turkey,TUR
+18.97(C) 66.15(F),2014,Jul,Republic of Montenegro,MNE
+18.97(C) 66.15(F),2014,Dec,Myanmar (Burma),MMR
+18.97(C) 66.15(F),2001,Sep,Japan,JPN
+18.97(C) 66.15(F),2008,Mar,Algeria,DZA
+18.97(C) 66.15(F),2001,May,Lebanon,LBN
+18.97(C) 66.15(F),2012,Oct,Iran,IRN
+18.97(C) 66.15(F),2014,May,Azerbaijan,AZE
+18.97(C) 66.15(F),2015,Sep,Japan,JPN
+18.98(C) 66.16(F),2005,May,Swaziland,SWZ
+18.98(C) 66.16(F),2003,Jan,United Arab Emirates,ARE
+18.98(C) 66.16(F),2003,Jul,Netherlands,NLD
+18.98(C) 66.16(F),2015,Nov,Rwanda,RWA
+18.98(C) 66.16(F),2013,Aug,Czech Republic,CZE
+18.98(C) 66.16(F),2007,Jul,New Caledonia,NCL
+18.98(C) 66.16(F),2011,Nov,Argentina,ARG
+18.98(C) 66.16(F),2012,May,Swaziland,SWZ
+18.98(C) 66.17(F),2006,Sep,Swaziland,SWZ
+18.98(C) 66.17(F),2006,Jun,Ukraine,UKR
+18.98(C) 66.17(F),2014,Jul,Nepal,NPL
+18.98(C) 66.17(F),2014,May,Bolivia,BOL
+18.99(C) 66.18(F),2016,Jul,Peru,PER
+18.99(C) 66.18(F),2014,Jan,Vietnam,VNM
+18.99(C) 66.18(F),2011,Jun,Bosnia and Herzegovina,BIH
+18.99(C) 66.18(F),2010,Jun,Albania,ALB
+18.99(C) 66.18(F),2008,Mar,Pakistan,PAK
+18.99(C) 66.18(F),2005,Aug,Nepal,NPL
+18.99(C) 66.18(F),2000,Jul,Andorra,AND
+18.99(C) 66.18(F),2004,Aug,Monaco,MCO
+19.0(C) 66.19(F),2007,Jul,Burundi,BDI
+19.0(C) 66.19(F),2001,Aug,Luxembourg,LUX
+19.0(C) 66.19(F),2016,Jun,Malawi,MWI

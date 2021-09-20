@@ -1,0 +1,25 @@
+Task B1: Get Top Ten Lowest and Highest Temperatures by Month
+Task B1: Top Ten Lowest Temperatures for Jan
+Temperature, Year, Month_Avg, Country, Country_Code
+-29.64(C) -21.36(F),2006,Jan,Russia,RUS
+-26.52(C) -15.73(F),2008,Jan,Greenland,GRL
+-26.04(C) -14.87(F),2004,Jan,Canada,CAN
+-25.54(C) -13.97(F),2011,Jan,Mongolia,MNG
+-18.19(C) -0.73(F),2008,Jan,Kyrgyzstan,KGZ
+-18.09(C) -0.57(F),2006,Jan,Kazakhstan,KAZ
+-16.19(C) 2.85(F),2003,Jan,Finland,FIN
+-15.26(C) 4.53(F),2011,Jan,Korea. Democratic People's Republic of,PRK
+-14.85(C) 5.26(F),2008,Jan,Tajikistan,TJK
+-12.89(C) 8.8(F),2010,Jan,Sweden,SWE
+Task B1: Top Ten Highest Temperatures for Jan
+Temperature, Year, Month_Avg, Country, Country_Code
+28.25(C) 82.86(F),2014,Jan,Benin,BEN
+28.33(C) 83.0(F),2000,Jan,Togo,TGO
+28.35(C) 83.03(F),2016,Jan,Palau,PLW
+28.51(C) 83.32(F),2016,Jan,Marshall Islands,MHL
+28.71(C) 83.68(F),2016,Jan,Paraguay,PRY
+28.8(C) 83.84(F),2016,Jan,Maldives,MDV
+29.08(C) 84.35(F),2008,Jan,South Sudan,SSD
+29.16(C) 84.48(F),2002,Jan,Tuvalu,TUV
+29.38(C) 84.89(F),2009,Jan,Samoa,WSM
+29.48(C) 85.06(F),2013,Jan,Australia,AUS
